@@ -1,0 +1,916 @@
+company,model,weight_in_grams,RAM,front_camera,back_camera,processor,battery_in_mAh,screen_size,launched_price_in_usa(USD),launched_year
+Apple,"iPad 10.2-inch 128GB",490,3GB,12MP,8MP,"A13 Bionic",8612,"10.2 inches",429,2020
+Apple,"iPad 10.2-inch 32GB",490,3GB,12MP,8MP,"A13 Bionic",8612,"10.2 inches",329,2020
+Apple,"iPad Air 10.9-inch 256GB",458,4GB,12MP,12MP,"A14 Bionic",7608,"10.9 inches",749,2020
+Apple,"iPad Air 10.9-inch 64GB",458,4GB,12MP,12MP,"A14 Bionic",7608,"10.9 inches",599,2020
+Apple,"iPad Mini 7.9-inch 256GB",301,3GB,7MP,8MP,"A12 Bionic",5124,"7.9 inches",499,2019
+Apple,"iPad Mini 7.9-inch 64GB",301,3GB,7MP,8MP,"A12 Bionic",5124,"7.9 inches",399,2019
+Apple,"iPad Pro 11-inch 128GB",468,4GB,7MP,"12MP + 10MP","A12Z Bionic",7812,"11 inches",799,2020
+Apple,"iPad Pro 11-inch 256GB",468,4GB,7MP,"12MP + 10MP","A12Z Bionic",7812,"11 inches",899,2020
+Apple,"iPad Pro 11-inch 512GB",468,6GB,7MP,"12MP + 10MP","A12Z Bionic",7812,"11 inches",1099,2020
+Apple,"iPad Pro 12.9-inch 128GB",682,6GB,7MP,"12MP + 10MP","A12Z Bionic",9720,"12.9 inches",999,2020
+Apple,"iPad Pro 12.9-inch 256GB",682,6GB,7MP,"12MP + 10MP","A12Z Bionic",9720,"12.9 inches",1099,2020
+Apple,"iPad Pro 12.9-inch 512GB",682,6GB,7MP,"12MP + 10MP","A12Z Bionic",9720,"12.9 inches",1299,2020
+Apple,"iPad Pro 13-inch 128GB",708,6GB,7MP,"12MP + 10MP","A12Z Bionic",10307,"13 inches",1099,2020
+Apple,"iPad Pro 13-inch 1TB",708,6GB,7MP,"12MP + 10MP","A12Z Bionic",10307,"13 inches",1599,2020
+Apple,"iPad Pro 13-inch 256GB",708,6GB,7MP,"12MP + 10MP","A12Z Bionic",10307,"13 inches",1199,2020
+Apple,"iPad Pro 13-inch 2TB",708,6GB,7MP,"12MP + 10MP","A12Z Bionic",10307,"13 inches",1799,2020
+Apple,"iPad Pro 13-inch 512GB",708,6GB,7MP,"12MP + 10MP","A12Z Bionic",10307,"13 inches",1399,2020
+Apple,"iPhone 11 128GB",194,4GB,12MP,"12MP + 12MP","A13 Bionic",3110,"6.1 inches",799,2019
+Apple,"iPhone 11 256GB",194,4GB,12MP,"12MP + 12MP","A13 Bionic",3110,"6.1 inches",899,2019
+Apple,"iPhone 11 64GB",194,4GB,12MP,"12MP + 12MP","A13 Bionic",3110,"6.1 inches",699,2019
+Apple,"iPhone 11 Pro 256GB",188,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3046,"5.8 inches",1099,2019
+Apple,"iPhone 11 Pro 512GB",188,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3046,"5.8 inches",1199,2019
+Apple,"iPhone 11 Pro 64GB",188,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3046,"5.8 inches",999,2019
+Apple,"iPhone 11 Pro Max 256GB",226,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3969,"6.5 inches",1199,2019
+Apple,"iPhone 11 Pro Max 512GB",226,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3969,"6.5 inches",1399,2019
+Apple,"iPhone 11 Pro Max 64GB",226,4GB,"12MP / 4K","12MP + 12MP + 12MP","A13 Bionic",3969,"6.5 inches",1099,2019
+Apple,"iPhone 12 128GB",164,4GB,12MP,"12MP + 12MP","A14 Bionic",2815,"6.1 inches",899,2020
+Apple,"iPhone 12 256GB",164,4GB,12MP,"12MP + 12MP","A14 Bionic",2815,"6.1 inches",999,2020
+Apple,"iPhone 12 64GB",164,4GB,12MP,"12MP + 12MP","A14 Bionic",2815,"6.1 inches",799,2020
+Apple,"iPhone 12 mini 128GB",135,4GB,12MP,12MP,"A14 Bionic",2227,"5.4 inches",799,2020
+Apple,"iPhone 12 mini 256GB",135,4GB,12MP,12MP,"A14 Bionic",2227,"5.4 inches",899,2020
+Apple,"iPhone 12 mini 64GB",135,4GB,12MP,12MP,"A14 Bionic",2227,"5.4 inches",699,2020
+Apple,"iPhone 12 Pro 128GB",189,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",2815,"6.1 inches",999,2020
+Apple,"iPhone 12 Pro 256GB",189,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",2815,"6.1 inches",1099,2020
+Apple,"iPhone 12 Pro 512GB",189,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",2815,"6.1 inches",1199,2020
+Apple,"iPhone 12 Pro Max 128GB",228,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",3687,"6.7 inches",1099,2020
+Apple,"iPhone 12 Pro Max 256GB",228,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",3687,"6.7 inches",1199,2020
+Apple,"iPhone 12 Pro Max 512GB",228,6GB,"12MP / 4K","12MP + 12MP + 12MP","A14 Bionic",3687,"6.7 inches",1399,2020
+Apple,"iPhone 13 128GB",174,4GB,12MP,"12MP + 12MP","A15 Bionic",3240,"6.1 inches",799,2021
+Apple,"iPhone 13 256GB",174,4GB,12MP,"12MP + 12MP","A15 Bionic",3240,"6.1 inches",899,2021
+Apple,"iPhone 13 512GB",174,4GB,12MP,"12MP + 12MP","A15 Bionic",3240,"6.1 inches",999,2021
+Apple,"iPhone 13 mini 128GB",140,4GB,12MP,12MP,"A15 Bionic",2438,"5.4 inches",699,2021
+Apple,"iPhone 13 mini 256GB",140,4GB,12MP,12MP,"A15 Bionic",2438,"5.4 inches",799,2021
+Apple,"iPhone 13 mini 512GB",140,4GB,12MP,12MP,"A15 Bionic",2438,"5.4 inches",899,2021
+Apple,"iPhone 13 Pro 128GB",204,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",3095,"6.1 inches",999,2021
+Apple,"iPhone 13 Pro 256GB",204,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",3095,"6.1 inches",1099,2021
+Apple,"iPhone 13 Pro 512GB",204,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",3095,"6.1 inches",1199,2021
+Apple,"iPhone 13 Pro Max 128GB",238,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",4352,"6.7 inches",1099,2021
+Apple,"iPhone 13 Pro Max 256GB",238,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",4352,"6.7 inches",1199,2021
+Apple,"iPhone 13 Pro Max 512GB",238,6GB,"12MP / 4K","12MP + 12MP + 12MP","A15 Bionic",4352,"6.7 inches",1399,2021
+Apple,"iPhone 14 128GB",172,6GB,12MP,"12MP + 12MP","A15 Bionic",3200,"6.1 inches",799,2022
+Apple,"iPhone 14 256GB",172,6GB,12MP,"12MP + 12MP","A15 Bionic",3200,"6.1 inches",849,2022
+Apple,"iPhone 14 512GB",172,6GB,12MP,"12MP + 12MP","A15 Bionic",3200,"6.1 inches",949,2022
+Apple,"iPhone 14 Plus 128GB",203,6GB,12MP,"12MP + 12MP","A15 Bionic",4325,"6.7 inches",899,2022
+Apple,"iPhone 14 Plus 256GB",203,6GB,12MP,"12MP + 12MP","A15 Bionic",4325,"6.7 inches",999,2022
+Apple,"iPhone 14 Plus 512GB",203,6GB,12MP,"12MP + 12MP","A15 Bionic",4325,"6.7 inches",1049,2022
+Apple,"iPhone 14 Pro 128GB",206,6GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4200,"6.1 inches",1099,2022
+Apple,"iPhone 14 Pro 256GB",206,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4200,"6.1 inches",1199,2022
+Apple,"iPhone 14 Pro 512GB",206,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4200,"6.1 inches",1299,2022
+Apple,"iPhone 14 Pro Max 128GB",221,6GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1199,2022
+Apple,"iPhone 14 Pro Max 256GB",221,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1299,2022
+Apple,"iPhone 14 Pro Max 512GB",221,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1399,2022
+Apple,"iPhone 15 128GB",171,6GB,12MP,48MP,"A16 Bionic",3200,"6.1 inches",799,2023
+Apple,"iPhone 15 256GB",171,6GB,12MP,48MP,"A16 Bionic",3200,"6.1 inches",849,2023
+Apple,"iPhone 15 512GB",171,6GB,12MP,48MP,"A16 Bionic",3200,"6.1 inches",949,2023
+Apple,"iPhone 15 Plus 128GB",203,6GB,12MP,48MP,"A16 Bionic",4300,"6.7 inches",899,2023
+Apple,"iPhone 15 Plus 256GB",203,6GB,12MP,48MP,"A16 Bionic",4300,"6.7 inches",999,2023
+Apple,"iPhone 15 Plus 512GB",203,6GB,12MP,48MP,"A16 Bionic",4300,"6.7 inches",1049,2023
+Apple,"iPhone 15 Pro 128GB",206,6GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4400,"6.1 inches",1099,2023
+Apple,"iPhone 15 Pro 256GB",206,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4400,"6.1 inches",1199,2023
+Apple,"iPhone 15 Pro 512GB",206,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4400,"6.1 inches",1299,2023
+Apple,"iPhone 15 Pro Max 128GB",221,6GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1199,2023
+Apple,"iPhone 15 Pro Max 256GB",221,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1299,2023
+Apple,"iPhone 15 Pro Max 512GB",221,8GB,"12MP / 4K","48MP + 12MP","A16 Bionic",4500,"6.7 inches",1399,2023
+Apple,"iPhone 16 128GB",174,6GB,12MP,48MP,"A17 Bionic",3600,"6.1 inches",799,2024
+Apple,"iPhone 16 256GB",174,6GB,12MP,48MP,"A17 Bionic",3600,"6.1 inches",849,2024
+Apple,"iPhone 16 512GB",174,6GB,12MP,48MP,"A17 Bionic",3600,"6.1 inches",899,2024
+Apple,"iPhone 16 Plus 128GB",203,6GB,12MP,48MP,"A17 Bionic",4200,"6.7 inches",899,2024
+Apple,"iPhone 16 Plus 256GB",203,6GB,12MP,48MP,"A17 Bionic",4200,"6.7 inches",949,2024
+Apple,"iPhone 16 Plus 512GB",203,6GB,12MP,48MP,"A17 Bionic",4200,"6.7 inches",999,2024
+Apple,"iPhone 16 Pro 128GB",206,6GB,"12MP / 4K","50MP + 12MP","A17 Pro",4400,"6.1 inches",999,2024
+Apple,"iPhone 16 Pro 256GB",206,8GB,"12MP / 4K","50MP + 12MP","A17 Pro",4400,"6.1 inches",1049,2024
+Apple,"iPhone 16 Pro 512GB",206,8GB,"12MP / 4K","50MP + 12MP","A17 Pro",4400,"6.1 inches",1099,2024
+Apple,"iPhone 16 Pro Max 128GB",221,6GB,"12MP / 4K","48MP + 12MP","A17 Pro",4500,"6.7 inches",1099,2024
+Apple,"iPhone 16 Pro Max 256GB",221,8GB,"12MP / 4K","48MP + 12MP","A17 Pro",4500,"6.7 inches",1199,2024
+Apple,"iPhone 16 Pro Max 512GB",221,8GB,"12MP / 4K","48MP + 12MP","A17 Pro",4500,"6.7 inches",1299,2024
+Apple,"iPhone X 256GB",174,3GB,7MP,"12MP + 12MP","A11 Bionic",2716,"5.8 inches",1099,2017
+Apple,"iPhone X 64GB",174,3GB,7MP,"12MP + 12MP","A11 Bionic",2716,"5.8 inches",999,2017
+Apple,"iPhone XR 128GB",194,3GB,7MP,"12MP + 12MP","A12 Bionic",2942,"6.1 inches",799,2018
+Apple,"iPhone XR 256GB",194,3GB,7MP,"12MP + 12MP","A12 Bionic",2942,"6.1 inches",899,2018
+Apple,"iPhone XR 64GB",194,3GB,7MP,"12MP + 12MP","A12 Bionic",2942,"6.1 inches",749,2018
+Apple,"iPhone XS 256GB",177,4GB,7MP,"12MP + 12MP","A12 Bionic",2658,"5.8 inches",1099,2018
+Apple,"iPhone XS 512GB",177,4GB,7MP,"12MP + 12MP","A12 Bionic",2658,"5.8 inches",1299,2018
+Apple,"iPhone XS 64GB",177,4GB,7MP,"12MP + 12MP","A12 Bionic",2658,"5.8 inches",999,2018
+Apple,"iPhone XS Max 256GB",208,4GB,7MP,"12MP + 12MP","A12 Bionic",3174,"6.5 inches",1249,2018
+Apple,"iPhone XS Max 512GB",208,4GB,7MP,"12MP + 12MP","A12 Bionic",3174,"6.5 inches",1399,2018
+Apple,"iPhone XS Max 64GB",208,4GB,7MP,"12MP + 12MP","A12 Bionic",3174,"6.5 inches",1099,2018
+Google,"Pixel 3a 64GB",147,4GB,8MP,12.2MP,"Snapdragon 670",3000,"5.6 inches",399,2019
+Google,"Pixel 3a XL 64GB",167,4GB,8MP,12.2MP,"Snapdragon 670",3700,"6.0 inches",479,2019
+Google,"Pixel 4 64GB",162,6GB,8MP,12.2MP,"Snapdragon 855",2800,"5.7 inches",799,2019
+Google,"Pixel 4 XL 64GB",193,6GB,8MP,12.2MP,"Snapdragon 855",3700,"6.3 inches",899,2019
+Google,"Pixel 4a 128GB",143,6GB,8MP,12.2MP,"Snapdragon 730G",3140,"5.8 inches",349,2020
+Google,"Pixel 4a 5G 128GB",168,6GB,8MP,12.2MP,"Snapdragon 765G",3885,"6.2 inches",499,2020
+Google,"Pixel 5 128GB",151,8GB,8MP,12.2MP,"Snapdragon 765G",4080,"6.0 inches",699,2020
+Google,"Pixel 5a 128GB",183,6GB,8MP,12.2MP,"Snapdragon 765G",4680,"6.34 inches",449,2021
+Google,"Pixel 6 128GB",207,8GB,8MP,50MP,"Google Tensor",4614,"6.4 inches",699,2021
+Google,"Pixel 6 Pro 256GB",210,12GB,11.1MP,50MP,"Google Tensor",5003,"6.71 inches",899,2021
+Google,"Pixel 6a 128GB",178,6GB,8MP,12.2MP,"Google Tensor",4410,"6.1 inches",449,2022
+Google,"Pixel 7 128GB",197,8GB,10.8MP,50MP,"Google Tensor G2",4355,"6.3 inches",599,2022
+Google,"Pixel 7 Pro 256GB",212,12GB,10.8MP,50MP,"Google Tensor G2",5000,"6.7 inches",899,2022
+Google,"Pixel 7a 128GB",193,8GB,10.8MP,64MP,"Google Tensor G2",4385,"6.1 inches",499,2023
+Google,"Pixel 8 128GB",187,8GB,10.5MP,50MP,"Google Tensor G3",4575,"6.2 inches",699,2023
+Google,"Pixel 8 Pro 256GB",213,12GB,10.5MP,50MP,"Google Tensor G3",5050,"6.7 inches",999,2023
+Google,"Pixel 8a 128GB",194,8GB,10.5MP,64MP,"Google Tensor G3",4385,"6.1 inches",549,2024
+Google,"Pixel 9 128GB",195,8GB,10.8MP,50MP,"Google Tensor G4",4600,"6.3 inches",799,2024
+Google,"Pixel 9 Pro 256GB",216,12GB,10.8MP,50MP,"Google Tensor G4",5050,"6.7 inches",1099,2024
+Google,"Pixel 9 Pro Fold 512GB",250,16GB,10.8MP,50MP,"Google Tensor G4",5500,"7.6 inches",1799,2024
+Google,"Pixel 9 Pro XL 512GB",222,16GB,10.8MP,50MP,"Google Tensor G4",5250,"6.8 inches",1299,2024
+Honor,"10X Lite",206,4GB,8MP,48MP,"Kirin 710A",5000,"6.67 inches",229,2020
+Honor,30,185,8GB,32MP,40MP,"Kirin 985 5G",4000,"6.53 inches",449,2020
+Honor,"30 Pro",190,8GB,32MP,50MP,"Kirin 990 5G",4000,"6.57 inches",599,2020
+Honor,"30 Pro+",192,12GB,32MP,50MP,"Kirin 990 5G",4000,"6.57 inches",699,2020
+Honor,30S,190,6GB,16MP,64MP,"Kirin 820 5G",4000,"6.5 inches",349,2020
+Honor,50,175,8GB,32MP,108MP,"Qualcomm Snapdragon 778G",4300,"6.57 inches",549,2021
+Honor,"50 Pro",187,8GB,32MP,108MP,"Qualcomm Snapdragon 778G",4000,"6.72 inches",649,2021
+Honor,"50 SE",191,8GB,16MP,108MP,"MediaTek Dimensity 900",4000,"6.78 inches",449,2021
+Honor,60,179,8GB,32MP,108MP,"Qualcomm Snapdragon 778G",4800,"6.67 inches",549,2021
+Honor,"60 Pro",192,8GB,50MP,108MP,"Qualcomm Snapdragon 778G+",4800,"6.78 inches",649,2021
+Honor,"60 SE",191,8GB,16MP,64MP,"MediaTek Dimensity 900",4300,"6.67 inches",449,2021
+Honor,70,178,8GB,32MP,54MP,"Qualcomm Snapdragon 778G+",4800,"6.67 inches",549,2022
+Honor,"70 Pro",192,8GB,50MP,54MP,"MediaTek Dimensity 8000",4500,"6.78 inches",699,2022
+Honor,"70 Pro+",209,12GB,50MP,54MP,"MediaTek Dimensity 9000",4500,"6.78 inches",799,2022
+Honor,80,180,8GB,32MP,160MP,"Qualcomm Snapdragon 782G",4800,"6.67 inches",549,2022
+Honor,"80 Pro",193,12GB,50MP,160MP,"Qualcomm Snapdragon 8+ Gen 1",4800,"6.78 inches",799,2022
+Honor,"80 SE",175,8GB,32MP,64MP,"MediaTek Dimensity 900",4600,"6.67 inches",399,2022
+Honor,90,183,12GB,50MP,200MP,"Qualcomm Snapdragon 7 Gen 1",5000,"6.7 inches",599,2023
+Honor,"90 Pro",192,12GB,50MP,200MP,"Qualcomm Snapdragon 8+ Gen 1",5000,"6.78 inches",699,2023
+Honor,"90 SE",175,8GB,32MP,64MP,"MediaTek Dimensity 900",4600,"6.67 inches",399,2023
+Honor,"9X Lite",175,4GB,8MP,48MP,"Kirin 710F",3750,"6.5 inches",219,2020
+Honor,"Magic V",288,12GB,42MP,50MP,"Qualcomm Snapdragon 8 Gen 1",4750,"7.9 inches",1799,2022
+Honor,"Magic V2",231,12GB,16MP,50MP,"Qualcomm Snapdragon 8 Gen 2",5000,"7.92 inches",1899,2024
+Honor,"Magic V3",231,12GB,16MP,50MP,"Qualcomm Snapdragon 8 Gen 2",5000,"7.92 inches",1899,2024
+Honor,"Magic Vs",267,12GB,16MP,50MP,"Qualcomm Snapdragon 8+ Gen 1",5000,"7.9 inches",1699,2023
+Honor,Magic3,202,8GB,13MP,50MP,"Qualcomm Snapdragon 888",4600,"6.76 inches",899,2021
+Honor,"Magic3 Pro",213,8GB,13MP,50MP,"Qualcomm Snapdragon 888+",4600,"6.76 inches",1099,2021
+Honor,"Magic3 Pro+",236,12GB,13MP,50MP,"Qualcomm Snapdragon 888+",4600,"6.76 inches",1299,2021
+Honor,Magic4,199,8GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 1",4800,"6.81 inches",899,2022
+Honor,"Magic4 Pro",215,8GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 1",4600,"6.81 inches",1099,2022
+Honor,"Magic4 Ultimate",242,12GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 1",4600,"6.81 inches",1299,2022
+Honor,Magic5,204,8GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 2",5100,"6.81 inches",999,2023
+Honor,"Magic5 Pro",219,12GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 2",5100,"6.81 inches",1199,2023
+Honor,"Magic5 Ultimate",234,16GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 2",5450,"6.81 inches",1399,2023
+Honor,Magic6,203,8GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5200,"6.81 inches",1099,2024
+Honor,"Magic6 Pro",219,12GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5500,"6.81 inches",1299,2024
+Honor,"Magic6 Ultimate",234,16GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5550,"6.81 inches",1499,2024
+Honor,Magic7,203,8GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5200,"6.81 inches",1099,2024
+Honor,"Magic7 Pro",219,12GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5500,"6.81 inches",1299,2024
+Honor,"Magic7 Ultimate",234,16GB,12MP,50MP,"Qualcomm Snapdragon 8 Gen 3",5550,"6.81 inches",1499,2024
+Honor,"MagicPad 13",590,12GB,8MP,13MP,"Qualcomm Snapdragon 8+ Gen 1",10000,"13.0 inches",799,2023
+Honor,"MagicPad 2",580,16GB,12MP,16MP,"Qualcomm Snapdragon 8 Gen 2",10500,"13.2 inches",899,2024
+Honor,"MagicPad 3",590,12GB,12MP,16MP,"Qualcomm Snapdragon 8 Gen 3",10500,"13.0 inches",799,2024
+Honor,"Pad 6",460,4GB,2MP,5MP,"Qualcomm Snapdragon 662",5100,"10.1 inches",199,2020
+Honor,"Pad 7",460,4GB,2MP,5MP,"MediaTek Helio G80",5100,"10.1 inches",229,2021
+Honor,"Pad 8",520,6GB,5MP,5MP,"Qualcomm Snapdragon 680",7250,"12.0 inches",299,2022
+Honor,"Pad 9",550,8GB,8MP,13MP,"Qualcomm Snapdragon 6 Gen 1",8300,"12.1 inches",399,2024
+Honor,"Pad 9 Pro",560,12GB,8MP,13MP,"MediaTek Dimensity 8100",9000,"12.6 inches",499,2024
+Honor,"Pad GT Pro",610,12GB,12MP,16MP,"Qualcomm Snapdragon 8 Gen 3",10500,"13.5 inches",999,2024
+Honor,"Pad V10",530,8GB,8MP,13MP,"MediaTek Dimensity 9000",8500,"12.1 inches",649,2024
+Honor,"Pad V8",510,6GB,5MP,13MP,"MediaTek Dimensity 8020",7250,"11.0 inches",449,2023
+Honor,"Pad V8 Pro",530,8GB,8MP,13MP,"MediaTek Dimensity 9000",8500,"12.1 inches",649,2023
+Honor,"Pad V9",530,8GB,8MP,13MP,"MediaTek Dimensity 9000",8500,"12.1 inches",649,2024
+Honor,"Pad X10",475,6GB,5MP,8MP,"Qualcomm Snapdragon 685",8850,"12.1 inches",399,2024
+Honor,"Pad X10 Pro",485,8GB,8MP,13MP,"Qualcomm Snapdragon 7s Gen 2",9000,"12.6 inches",499,2024
+Honor,"Pad X6",460,3GB,2MP,5MP,"MediaTek MT8768T",5100,"9.7 inches",159,2020
+Honor,"Pad X8",460,4GB,2MP,5MP,"MediaTek Helio G80",5100,"10.1 inches",189,2022
+Honor,"Pad X8 Lite",450,3GB,2MP,5MP,"MediaTek MT8786",5000,"9.7 inches",149,2022
+Honor,"Pad X8 Pro",460,4GB,2MP,5MP,"MediaTek Helio G80",5100,"10.1 inches",189,2023
+Honor,"Pad X8a",450,4GB,2MP,5MP,"MediaTek MT8786",5000,"9.7 inches",149,2023
+Honor,"Pad X8a Kids Edition",460,3GB,2MP,5MP,"MediaTek MT8786",5100,"9.7 inches",129,2023
+Honor,"Pad X9",495,6GB,5MP,8MP,"Qualcomm Snapdragon 685",7250,"11.5 inches",299,2023
+Honor,"Pad X9 Pro",505,8GB,8MP,13MP,"Qualcomm Snapdragon 7s Gen 2",8000,"11.6 inches",399,2024
+Honor,"Play 4",213,6GB,16MP,64MP,"MediaTek Dimensity 800",4300,"6.81 inches",349,2020
+Honor,"Play 4 Pro",213,8GB,32MP,40MP,"Kirin 990 5G",4200,"6.57 inches",549,2020
+Honor,"Play 5",179,8GB,16MP,64MP,"MediaTek Dimensity 800U",3800,"6.53 inches",319,2021
+Honor,"Play 5T",191,6GB,8MP,13MP,"Unisoc T610",5000,"6.5 inches",219,2021
+Honor,"Play 6",190,6GB,5MP,13MP,"MediaTek MT6762G Helio G25",5000,"6.52 inches",179,2022
+Honor,"Play 6T",198,6GB,5MP,13MP,"MediaTek Dimensity 700",5000,"6.74 inches",229,2022
+Honor,"Play 7",196,4GB,5MP,13MP,"MediaTek Helio G37",5200,"6.74 inches",159,2023
+Honor,"Play 7T",199,6GB,5MP,13MP,"MediaTek Dimensity 6020",5200,"6.74 inches",199,2023
+Honor,"Play 8",191,4GB,5MP,13MP,"MediaTek Helio G36",5000,"6.52 inches",149,2023
+Honor,"Play 8T",195,6GB,5MP,50MP,"MediaTek Dimensity 6100+",5200,"6.74 inches",189,2023
+Honor,"Play 9",191,4GB,5MP,13MP,"MediaTek Helio G36",5000,"6.52 inches",149,2023
+Honor,"Play 9T",195,6GB,5MP,50MP,"MediaTek Dimensity 6100+",5200,"6.74 inches",189,2023
+Honor,"Tablet V7",480,6GB,8MP,13MP,"MediaTek Dimensity 800",7250,"10.4 inches",399,2021
+Honor,"Tablet V7 Pro",485,8GB,8MP,13MP,"MediaTek Dimensity 1300T",7250,"11.0 inches",499,2021
+Honor,V40,189,8GB,16MP,50MP,"MediaTek Dimensity 1000+",4000,"6.72 inches",599,2021
+Honor,X10,203,6GB,16MP,40MP,"Kirin 820 5G",4300,"6.63 inches",319,2020
+Honor,"X10 Max",227,8GB,8MP,48MP,"MediaTek Dimensity 800",5000,"7.09 inches",379,2020
+Honor,X20,192,6GB,16MP,64MP,"MediaTek Dimensity 900",4300,"6.67 inches",379,2021
+Honor,"X20 SE",179,6GB,16MP,64MP,"MediaTek Dimensity 700",4000,"6.6 inches",299,2021
+Honor,X30,189,6GB,16MP,48MP,"Qualcomm Snapdragon 695",4800,"6.81 inches",379,2021
+Honor,"X30 Max",228,8GB,8MP,64MP,"MediaTek Dimensity 900",5000,"7.09 inches",499,2021
+Honor,X30i,175,6GB,16MP,48MP,"MediaTek Dimensity 810",4000,"6.7 inches",299,2021
+Honor,X40,172,6GB,8MP,50MP,"Qualcomm Snapdragon 695",5100,"6.67 inches",299,2022
+Honor,X40i,175,6GB,8MP,50MP,"MediaTek Dimensity 700",4000,"6.7 inches",279,2022
+Honor,X50,185,6GB,8MP,108MP,"Qualcomm Snapdragon 6 Gen 1",5800,"6.78 inches",299,2023
+Honor,X50i,179,6GB,8MP,100MP,"MediaTek Dimensity 6020",4500,"6.7 inches",249,2023
+Honor,X60,185,6GB,8MP,108MP,"Qualcomm Snapdragon 6 Gen 1",5800,"6.78 inches",299,2023
+Honor,X60i,179,6GB,8MP,100MP,"MediaTek Dimensity 6020",4500,"6.7 inches",249,2023
+Huawei,"Mate 40E",188,8GB,13MP,64MP,"Kirin 990E 5G",4200,"6.5 inches",799,2021
+Huawei,"Mate 50",202,8GB,13MP,50MP,"Snapdragon 8+ Gen 1 4G",4460,"6.7 inches",999,2022
+Huawei,"Mate 50 Pro",205,8GB,13MP,50MP,"Snapdragon 8+ Gen 1 4G",4700,"6.74 inches",1199,2022
+Huawei,"Mate 60",209,12GB,13MP,"50MP + 12MP + 12MP","Kirin 9000S",4750,"6.7 inches",1099,2023
+Huawei,"Mate 60 Pro",225,12GB,13MP,"50MP + 40MP + 48MP","Kirin 9000S",5000,"6.82 inches",1299,2023
+Huawei,"Mate 60 Pro+",235,12GB,13MP,"50MP + 48MP + 48MP","Kirin 9000S",5200,"6.82 inches",1499,2023
+Huawei,"Mate 70",220,12GB,13MP,"50MP + 12MP","Kirin 9010",4900,"6.7 inches",899,2024
+Huawei,"Mate 70 Pro",220,12GB,13MP,"50MP + 12MP + 40MP","Kirin 9010",5000,"6.8 inches",999,2024
+Huawei,"Mate 70 Pro+",220,12GB,13MP,"50MP + 12MP + 40MP","Kirin 9010",5000,"6.8 inches",1099,2024
+Huawei,"Mate X2",295,8GB,16MP,50MP,"Kirin 9000 5G",4500,"8.0 inches (unfolded)",2699,2021
+Huawei,"Mate X3",239,12GB,8MP,"50MP + 13MP + 12MP","Snapdragon 8+ Gen 1 4G",4800,"7.85 inches (unfolded)",2499,2023
+Huawei,"Mate X6",241,12GB,8MP,"50MP + 13MP + 12MP","Kirin 9010",4800,"7.93 inches",2499,2024
+Huawei,"Mate Xs 2",255,8GB,10.7MP,50MP,"Snapdragon 888 4G",4600,"7.8 inches (unfolded)",2499,2022
+Huawei,"Mate XT 256GB",245,12GB,13MP,"50MP + 12MP + 48MP","Kirin 9010",5000,"7.92 inches",2599,2024
+Huawei,"Mate XT 512GB",245,12GB,13MP,"50MP + 12MP + 48MP","Kirin 9010",5000,"7.92 inches",2799,2024
+Huawei,"MatePad Pro 12.2 512GB",508,12GB,16MP,"13MP (f/1.8, AF)","Kirin 9000S",10100,"12.2 inches",999,2024
+Huawei,"MatePad Pro 13.2 512GB",580,12GB,16MP,"13MP (f/1.8, AF)","Kirin 9000S",10100,"13.2 inches",877,2024
+Huawei,"Nova 10",168,8GB,60MP,50MP,"Snapdragon 778G 4G",4000,"6.67 inches",499,2022
+Huawei,"Nova 10 Pro",191,8GB,"Dual 60MP",50MP,"Snapdragon 778G 4G",4500,"6.78 inches",599,2022
+Huawei,"Nova 10 SE",184,8GB,16MP,108MP,"Snapdragon 680 4G",4500,"6.67 inches",399,2022
+Huawei,"Nova 11",168,8GB,60MP,"50MP + 8MP","Snapdragon 778G 4G",4500,"6.7 inches",499,2023
+Huawei,"Nova 11 Pro",188,8GB,"60MP + 8MP","50MP + 8MP","Snapdragon 778G 4G",4500,"6.78 inches",599,2023
+Huawei,"Nova 11 Ultra",188,12GB,"60MP + 8MP","50MP + 8MP","Snapdragon 778G 4G",4500,"6.78 inches",699,2023
+Huawei,"Nova 12",168,8GB,60MP,"50MP + 8MP","Kirin 9000S",4500,"6.7 inches",499,2024
+Huawei,"Nova 12 Pro",188,8GB,"60MP + 8MP","50MP + 8MP","Kirin 9000S",4500,"6.78 inches",599,2024
+Huawei,"Nova 13 256GB",170,8GB,50MP,"50MP + 8MP","Kirin 9000S",4600,"6.7 inches",529,2024
+Huawei,"Nova 13 512GB",170,8GB,50MP,"50MP + 8MP","Kirin 9000S",4600,"6.7 inches",599,2024
+Huawei,"Nova 13 Pro 256GB",190,8GB,"60MP + 8MP","50MP + 8MP","Kirin 9000S",4600,"6.78 inches",649,2024
+Huawei,"Nova 13 Pro 512GB",190,8GB,"60MP + 8MP","50MP + 8MP","Kirin 9000S",4600,"6.78 inches",729,2024
+Huawei,"Nova 9",175,8GB,32MP,50MP,"Snapdragon 778G 4G",4300,"6.57 inches",499,2021
+Huawei,"Nova 9 Pro",186,8GB,"Dual 32MP",50MP,"Snapdragon 778G 4G",4000,"6.72 inches",599,2021
+Huawei,P50,181,8GB,13MP,50MP,"Snapdragon 888 4G",4100,"6.5 inches",699,2021
+Huawei,"P50 Pocket",190,8GB,10.7MP,40MP,"Snapdragon 888 4G",4000,"6.9 inches (unfolded)",1299,2021
+Huawei,"P50 Pro",195,8GB,13MP,50MP,"Snapdragon 888 4G",4360,"6.6 inches",899,2021
+Huawei,P50E,181,8GB,13MP,50MP,"Snapdragon 778G 4G",4100,"6.5 inches",649,2022
+Huawei,P60,197,8GB,13MP,"48MP + 13MP + 48MP","Snapdragon 8+ Gen 1 4G",4815,"6.67 inches",999,2023
+Huawei,"P60 Art",206,"8GB / 12GB",13MP,"48MP + 40MP + 48MP","Snapdragon 8+ Gen 1 4G",5100,"6.73 inches",1299,2023
+Huawei,"P60 Pro",200,"8GB / 12GB",13MP,"48MP + 13MP + 48MP","Snapdragon 8+ Gen 1 4G",4815,"6.67 inches",1099,2023
+Huawei,"Pura 70",220,12GB,13MP,"50MP + 13MP + 12MP","Kirin 9010",4900,"6.8 inches",999,2024
+Huawei,"Pura 70 Pro",220,12GB,13MP,"50MP + 12.5MP + 48MP","Kirin 9010",5050,"6.8 inches",1099,2024
+Huawei,"Pura 70 Pro+",220,12GB,13MP,"50MP + 12.5MP + 48MP","Kirin 9010",5050,"6.8 inches",1199,2024
+Huawei,"Pura 70 Ultra",226,16GB,13MP,"50MP + 40MP + 50MP","Kirin 9010",5200,"6.8 inches",1299,2024
+Infinix,"GT 10 Pro 256GB",187,8GB,32MP,108MP,"MediaTek Dimensity 8050",5000,"6.67 inches",399,2023
+Infinix,"GT 20 Pro",198,12GB,32MP,108MP,"MediaTek Dimensity 8200",5500,"6.9 inches",449,2024
+Infinix,"Hot 10 128GB",204,4GB,8MP,16MP,"MediaTek Helio G70",5200,"6.78 inches",159,2020
+Infinix,"Hot 10 Lite 64GB",195,3GB,8MP,13MP,"MediaTek Helio A25",5000,"6.6 inches",109,2020
+Infinix,"Hot 10 Play 64GB",207,4GB,8MP,13MP,"MediaTek Helio G25",6000,"6.82 inches",139,2021
+Infinix,"Hot 10S 128GB",211,6GB,8MP,48MP,"MediaTek Helio G85",6000,"6.82 inches",169,2021
+Infinix,"Hot 10S NFC 128GB",211,6GB,8MP,48MP,"MediaTek Helio G85",6000,"6.82 inches",179,2021
+Infinix,"Hot 10T 128GB",205,4GB,8MP,48MP,"MediaTek Helio G70",5000,"6.82 inches",149,2021
+Infinix,"Hot 11 128GB",201,4GB,8MP,13MP,"MediaTek Helio G70",5200,"6.6 inches",159,2021
+Infinix,"Hot 11 Play 128GB",209,4GB,8MP,13MP,"MediaTek Helio G35",6000,"6.82 inches",169,2021
+Infinix,"Hot 11s 128GB",205,6GB,8MP,50MP,"MediaTek Helio G88",5000,"6.78 inches",189,2021
+Infinix,"Hot 12 128GB",195,6GB,8MP,13MP,"MediaTek Helio G85",5000,"6.82 inches",179,2022
+Infinix,"Hot 12 Play 128GB",209,4GB,8MP,13MP,"Unisoc T610",6000,"6.82 inches",159,2022
+Infinix,"Hot 12 Pro 128GB",191,8GB,8MP,50MP,"Unisoc T616",5000,"6.6 inches",199,2022
+Infinix,"Hot 12i 64GB",190,4GB,8MP,13MP,"MediaTek Helio A22",5000,"6.6 inches",139,2022
+Infinix,"Hot 20 128GB",198,6GB,8MP,50MP,"MediaTek Helio G85",5000,"6.82 inches",199,2022
+Infinix,"Hot 20 5G 128GB",204,6GB,8MP,50MP,"MediaTek Dimensity 810",5000,"6.6 inches",239,2022
+Infinix,"Hot 20 Play 128GB",209,4GB,8MP,13MP,"MediaTek Helio G37",6000,"6.82 inches",159,2022
+Infinix,"Hot 20i 64GB",195,4GB,8MP,13MP,"MediaTek Helio G25",5000,"6.6 inches",139,2022
+Infinix,"Hot 20s 128GB",202,8GB,8MP,50MP,"MediaTek Helio G96",5000,"6.78 inches",219,2022
+Infinix,"Hot 30 128GB",196,8GB,8MP,50MP,"MediaTek Helio G88",5000,"6.78 inches",199,2023
+Infinix,"Hot 30 5G 128GB",202,8GB,8MP,50MP,"MediaTek Dimensity 810",5000,"6.78 inches",239,2023
+Infinix,"Hot 30 Play 128GB",205,4GB,8MP,16MP,"MediaTek Helio G37",6000,"6.82 inches",179,2023
+Infinix,"Hot 30i 128GB",191,4GB,8MP,13MP,"Unisoc T606",5000,"6.6 inches",159,2023
+Infinix,"Hot 30i NFC 128GB",191,4GB,8MP,13MP,"Unisoc T606",5000,"6.6 inches",159,2023
+Infinix,"Hot 40",196,8GB,32MP,50MP,"MediaTek Helio G88",5000,"6.78 inches",199,2023
+Infinix,"Hot 40 Pro",195,8GB,32MP,108MP,"MediaTek Helio G99",5000,"6.78 inches",229,2023
+Infinix,"Hot 40i",195,4GB,8MP,13MP,"Unisoc T606",5000,"6.6 inches",159,2023
+Infinix,"Hot 50",192,6GB,8MP,50MP,"MediaTek Helio G85",5000,"6.78 inches",219,2024
+Infinix,"Hot 50 5G",195,8GB,16MP,50MP,"MediaTek Dimensity 810",5200,"6.78 inches",289,2024
+Infinix,"Hot 50 Pro",194,8GB,16MP,50MP,"MediaTek Helio G99",5000,"6.8 inches",269,2024
+Infinix,"Hot 50 Pro+",196,12GB,32MP,108MP,"MediaTek Dimensity 9200",5300,"6.9 inches",379,2024
+Infinix,"Hot 50i",190,4GB,8MP,50MP,"Unisoc T606",5000,"6.6 inches",179,2024
+Infinix,"Note 40",190,8GB,32MP,108MP,"MediaTek Helio G99",5000,"6.78 inches",279,2024
+Infinix,"Note 40 5G",195,8GB,32MP,108MP,"MediaTek Dimensity 8100",5200,"6.8 inches",319,2024
+Infinix,"Note 40 Pro",190,12GB,32MP,108MP,"MediaTek Dimensity 8100",5000,"6.78 inches",329,2024
+Infinix,"Note 40 Pro 5G",195,12GB,32MP,108MP,"MediaTek Dimensity 9000",5300,"6.8 inches",399,2024
+Infinix,"Note 40 Racing Edition",196,12GB,32MP,108MP,"MediaTek Dimensity 9200",5500,"6.9 inches",449,2024
+Infinix,"Note 40S",196,8GB,32MP,50MP,"MediaTek Helio G99",5000,"6.78 inches",279,2024
+Infinix,"Note 40X 5G",198,8GB,32MP,108MP,"MediaTek Dimensity 7200",5200,"6.8 inches",349,2024
+Infinix,"Note 8 128GB",210,6GB,16MP,64MP,"MediaTek Helio G80",5200,"6.95 inches",229,2020
+Infinix,"Note 8i 128GB",210,6GB,8MP,48MP,"MediaTek Helio G80",5200,"6.78 inches",199,2020
+Infinix,"Smart 5 64GB",195,3GB,8MP,13MP,"MediaTek Helio A20",5000,"6.6 inches",99,2020
+Infinix,"Smart HD 32GB",195,2GB,5MP,8MP,"MediaTek Helio A20",5000,"6.1 inches",79,2020
+Infinix,Xpad,450,6GB,8MP,13MP,"MediaTek Helio G99",7000,"10.1 inches",299,2024
+Infinix,"Xpad 5G",470,8GB,16MP,50MP,"MediaTek Dimensity 810",8000,"10.4 inches",399,2024
+Infinix,"Xpad Lite",420,4GB,5MP,8MP,"Unisoc T606",6000,"9.7 inches",219,2024
+Infinix,"Xpad Pro",480,12GB,32MP,50MP,"MediaTek Dimensity 9200",9000,"11.0 inches",549,2024
+Infinix,"Zero 30 256GB",185,8GB,50MP,108MP,"MediaTek Dimensity 8020",5000,"6.78 inches",349,2023
+Infinix,"Zero 30 5G 256GB",185,12GB,50MP,108MP,"MediaTek Dimensity 8020",5000,"6.78 inches",379,2023
+Infinix,"Zero 40",195,12GB,50MP,108MP,"MediaTek Dimensity 8200",5000,"6.78 inches",349,2024
+Infinix,"Zero 40 5G",195,12GB,50MP,108MP,"MediaTek Dimensity 8200",5000,"6.78 inches",379,2024
+Infinix,"Zero 8 128GB",205,8GB,48MP,64MP,"MediaTek Helio G90T",4500,"6.85 inches",279,2020
+Infinix,"Zero 8i 128GB",210,8GB,16MP,48MP,"MediaTek Helio G90T",4500,"6.85 inches",249,2020
+Infinix,"Zero Flip",190,8GB,32MP,108MP,"Qualcomm Snapdragon 778G",4500,"6.7 inches",399,2024
+iQOO,"Pad 128GB",520,6GB,8MP,13MP,"Snapdragon 870",8040,"11 inches",349,2023
+iQOO,"Pad 2 256GB",540,8GB,8MP,50MP,"Snapdragon 888",8040,"12.3 inches",399,2024
+iQOO,"Pad 2 Pro 256GB",555,8GB,8MP,50MP,"Snapdragon 8 Gen 1",8040,"12.3 inches",449,2024
+Lenovo,"A6 Note 32GB",172,3GB,5MP,13MP,"Helio P22",4000,"6.09 inches",149,2019
+Lenovo,"K10 Note 128GB",164,6GB,16MP,16MP,"Snapdragon 710",4050,"6.3 inches",249,2019
+Lenovo,"K10 Note 64GB",164,4GB,16MP,16MP,"Snapdragon 710",4050,"6.3 inches",219,2019
+Lenovo,"K10 Plus 64GB",172,4GB,16MP,13MP,"Snapdragon 632",4050,"6.22 inches",179,2019
+Lenovo,"K13 32GB",190,2GB,5MP,13MP,"Unisoc SC9863A",5000,"6.52 inches",149,2021
+Lenovo,"K13 Note 64GB",200,4GB,8MP,48MP,"Snapdragon 460",5000,"6.5 inches",199,2021
+Lenovo,"K13 Pro 128GB",200,6GB,16MP,64MP,"Snapdragon 662",5000,"6.8 inches",249,2021
+Lenovo,"K14 Plus 128GB",198,6GB,8MP,48MP,"Unisoc T700",5000,"6.5 inches",229,2022
+Lenovo,"K14 Plus 64GB",198,4GB,8MP,48MP,"Unisoc T700",5000,"6.5 inches",199,2022
+Lenovo,"Legion Y70 128GB",209,8GB,16MP,50MP,"Snapdragon 8+ Gen 1",5100,"6.67 inches",499,2022
+Lenovo,"Legion Y70 256GB",209,12GB,16MP,50MP,"Snapdragon 8+ Gen 1",5100,"6.67 inches",549,2022
+Lenovo,"Legion Y70 512GB",209,16GB,16MP,50MP,"Snapdragon 8+ Gen 1",5100,"6.67 inches",599,2022
+Lenovo,"Z5 Pro 64GB",210,6GB,16MP,16MP,"Snapdragon 710",3350,"6.39 inches",299,2018
+Lenovo,"Z6 Pro 128GB",185,6GB,32MP,48MP,"Snapdragon 855",4000,"6.39 inches",429,2019
+Lenovo,"Z6 Pro 256GB",185,8GB,32MP,48MP,"Snapdragon 855",4000,"6.39 inches",479,2019
+Motorola,"Edge 256GB",174,8GB,32MP,50MP,"Snapdragon 7s Gen 2",4700,"6.7 inches",450,2024
+Motorola,"Edge 30 Fusion 128GB",168,8GB,32MP,50MP,"Snapdragon 888+ 5G",4400,"6.55 inches",699,2022
+Motorola,"Edge 30 Fusion 256GB",168,12GB,32MP,50MP,"Snapdragon 888+ 5G",4400,"6.55 inches",749,2022
+Motorola,"Edge 30 Neo 128GB",155,6GB,32MP,64MP,"Snapdragon 695 5G",4020,"6.28 inches",499,2022
+Motorola,"Edge 30 Neo 256GB",155,8GB,32MP,64MP,"Snapdragon 695 5G",4020,"6.28 inches",549,2022
+Motorola,"Edge 50 256GB",180,8GB,32MP,50MP,"Snapdragon 7s Gen 2",4700,"6.7 inches",450,2024
+Motorola,"Edge 50 512GB",180,12GB,32MP,50MP,"Snapdragon 7s Gen 2",4700,"6.7 inches",500,2024
+Motorola,"Edge 50 Fusion 128GB",168,8GB,32MP,50MP,"Snapdragon 7 Gen 1",5000,"6.7 inches",499,2024
+Motorola,"Edge 50 Fusion 256GB",168,12GB,32MP,50MP,"Snapdragon 7 Gen 1",5000,"6.7 inches",549,2024
+Motorola,"Edge 50 Lite 128GB",170,6GB,32MP,64MP,"Snapdragon 695",5000,"6.7 inches",399,2024
+Motorola,"Edge 50 Lite 256GB",170,8GB,32MP,64MP,"Snapdragon 695",5000,"6.7 inches",449,2024
+Motorola,"Edge 50 Neo 256GB",171,8GB,32MP,50MP,"MediaTek Dimensity 7300",4310,"6.4 inches",400,2024
+Motorola,"Edge 50 Neo 512GB",171,12GB,32MP,50MP,"MediaTek Dimensity 7300",4310,"6.4 inches",450,2024
+Motorola,"Edge 50 Pro 128GB",186,8GB,50MP,50MP,"Snapdragon 7 Gen 3",4500,"6.7 inches",549,2024
+Motorola,"Edge 50 Pro 256GB",186,12GB,50MP,50MP,"Snapdragon 7 Gen 3",4500,"6.7 inches",599,2024
+Motorola,"Edge 50 Ultra 512GB",198,12GB,60MP,200MP,"Snapdragon 8 Gen 3",5000,"6.9 inches",1499,2024
+Motorola,"Edge 512GB",174,12GB,32MP,50MP,"Snapdragon 7s Gen 2",4700,"6.7 inches",500,2024
+Motorola,"G84 5G 128GB",166,8GB,16MP,50MP,"Snapdragon 695",5000,"6.5 inches",299,2023
+Motorola,"G84 5G 256GB",166,12GB,16MP,50MP,"Snapdragon 695",5000,"6.5 inches",349,2023
+Motorola,"Moto E14 128GB",180,4GB,8MP,13MP,"Unisoc T606",5000,"6.5 inches",180,2024
+Motorola,"Moto E14 64GB",180,4GB,8MP,13MP,"Unisoc T606",5000,"6.5 inches",150,2024
+Motorola,"Moto E22 64GB",169,4GB,5MP,16MP,"MediaTek Helio G37",4020,"6.5 inches",199,2022
+Motorola,"Moto E22i 32GB",169,2GB,5MP,16MP,"MediaTek Helio G37",4020,"6.5 inches",179,2022
+Motorola,"Moto E32s 64GB",185,3GB,8MP,16MP,"MediaTek Helio G37",5000,"6.5 inches",199,2022
+Motorola,"Moto E40 Plus 128GB",198,6GB,8MP,48MP,"Unisoc T700",5000,"6.5 inches",229,2023
+Motorola,"Moto E40 Plus 64GB",198,4GB,8MP,48MP,"Unisoc T700",5000,"6.5 inches",199,2023
+Motorola,"Moto G Play 32GB",203,3GB,5MP,13MP,"MediaTek Helio G25",5000,"6.5 inches",149,2022
+Motorola,"Moto G Play 64GB",203,4GB,5MP,13MP,"MediaTek Helio G25",5000,"6.5 inches",179,2022
+Motorola,"Moto G Power 128GB",206,6GB,16MP,50MP,"Snapdragon 662",5000,"6.6 inches",279,2022
+Motorola,"Moto G Power 64GB",206,4GB,16MP,50MP,"Snapdragon 662",5000,"6.6 inches",249,2022
+Motorola,"Moto G Stylus 128GB",195,6GB,16MP,50MP,"MediaTek Helio G88",5000,"6.8 inches",249,2023
+Motorola,"Moto G Stylus 5G 256GB",195,6GB,16MP,50MP,"Snapdragon 6 Gen 1",5000,"6.8 inches",300,2024
+Motorola,"Moto G Stylus 5G 512GB",195,8GB,16MP,50MP,"Snapdragon 6 Gen 1",5000,"6.8 inches",350,2024
+Motorola,"Moto G Stylus 64GB",195,4GB,16MP,50MP,"MediaTek Helio G88",5000,"6.8 inches",199,2023
+Motorola,"Moto G22 64GB",185,4GB,16MP,50MP,"MediaTek Helio G37",5000,"6.5 inches",249,2022
+Motorola,"Moto G32 128GB",184,4GB,16MP,50MP,"Snapdragon 680 4G",5000,"6.5 inches",279,2022
+Motorola,"Moto G35 128GB",188,4GB,16MP,50MP,"Unisoc T760",5000,"6.72 inches",200,2024
+Motorola,"Moto G35 256GB",188,8GB,16MP,50MP,"Unisoc T760",5000,"6.72 inches",250,2024
+Motorola,"Moto G42 128GB",175,4GB,16MP,50MP,"Snapdragon 680 4G",5000,"6.4 inches",299,2022
+Motorola,"Moto G45 128GB",183,6GB,16MP,50MP,"Snapdragon 6s Gen 3",5000,"6.5 inches",250,2024
+Motorola,"Moto G45 256GB",183,8GB,16MP,50MP,"Snapdragon 6s Gen 3",5000,"6.5 inches",300,2024
+Motorola,"Moto G55 128GB",182,8GB,16MP,50MP,"MediaTek Dimensity 7025",5000,"6.49 inches",270,2024
+Motorola,"Moto G55 256GB",182,8GB,16MP,50MP,"MediaTek Dimensity 7025",5000,"6.49 inches",320,2024
+Motorola,"Moto G62 5G 128GB",184,4GB,16MP,50MP,"Snapdragon 480+ 5G",5000,"6.5 inches",349,2022
+Motorola,"Moto G62 5G 256GB",184,6GB,16MP,50MP,"Snapdragon 480+ 5G",5000,"6.5 inches",399,2022
+Motorola,"Moto G75 5G 128GB",205,8GB,16MP,50MP,"Snapdragon 6 Gen 3",5000,"6.78 inches",320,2024
+Motorola,"Moto G75 5G 256GB",205,8GB,16MP,50MP,"Snapdragon 6 Gen 3",5000,"6.78 inches",370,2024
+Motorola,"Moto G82 5G 128GB",173,6GB,16MP,50MP,"Snapdragon 695 5G",5000,"6.6 inches",399,2022
+Motorola,"Moto G82 5G 256GB",173,8GB,16MP,50MP,"Snapdragon 695 5G",5000,"6.6 inches",449,2022
+Motorola,"Moto G85 128GB",173,8GB,32MP,50MP,"Snapdragon 6s Gen 3",5000,"6.67 inches",320,2024
+Motorola,"Moto G85 256GB",173,12GB,32MP,50MP,"Snapdragon 6s Gen 3",5000,"6.67 inches",370,2024
+Motorola,"Moto S50 128GB",190,8GB,32MP,64MP,"MediaTek Dimensity 8100",4500,"6.7 inches",300,2024
+Motorola,"Moto S50 256GB",190,12GB,32MP,64MP,"MediaTek Dimensity 8100",4500,"6.7 inches",350,2024
+Motorola,"Moto X50 Ultra 512GB",198,12GB,60MP,200MP,"Snapdragon 8 Gen 3",5000,"6.9 inches",1499,2024
+Motorola,"One Vision 3 128GB",180,6GB,25MP,48MP,"Exynos 9609",3500,"6.3 inches",299,2024
+Motorola,"One Vision 3 256GB",180,8GB,25MP,48MP,"Exynos 9609",3500,"6.3 inches",349,2024
+Motorola,"Razr 128GB",192,8GB,32MP,50MP,"Snapdragon 8+ Gen 1",3500,"6.7 inches (main), 2.7 inches (external)",999,2023
+Motorola,"Razr 256GB",192,12GB,32MP,50MP,"Snapdragon 8+ Gen 1",3500,"6.7 inches (main), 2.7 inches (external)",1099,2023
+Motorola,"Razr 50 256GB",188,8GB,32MP,50MP,"Snapdragon 7 Gen 1",3800,"6.7 inches (internal), 3.6 inches (external)",999,2024
+Motorola,"Razr 50 Ultra 512GB",189,12GB,32MP,50MP,"Snapdragon 8+ Gen 1",4000,"6.9 inches (internal), 4.0 inches (external)",1199,2024
+Motorola,"S50 Neo 256GB",170,8GB,32MP,50MP,"MediaTek Dimensity 7200",4300,"6.5 inches",300,2024
+Motorola,"S50 Neo 512GB",170,12GB,32MP,50MP,"MediaTek Dimensity 7200",4300,"6.5 inches",350,2024
+Nokia,"C22 128GB",190,3GB,8MP,13MP,"Unisoc SC9863A",5000,"6.5 inches",139,2023
+Nokia,"C22 64GB",190,2GB,8MP,13MP,"Unisoc SC9863A",5000,"6.5 inches",119,2023
+Nokia,"C32 128GB",199,4GB,8MP,50MP,"Unisoc SC9863A",5000,"6.52 inches",159,2023
+Nokia,"C32 64GB",199,3GB,8MP,50MP,"Unisoc SC9863A",5000,"6.52 inches",139,2023
+Nokia,"G20 128GB",197,4GB,8MP,48MP,"MediaTek G35",5050,"6.52 inches",189,2021
+Nokia,"G20 64GB",197,4GB,8MP,48MP,"MediaTek G35",5050,"6.52 inches",169,2021
+Nokia,"G21 128GB",190,6GB,8MP,50MP,"Unisoc T606",5050,"6.5 inches",189,2022
+Nokia,"G21 64GB",190,4GB,8MP,50MP,"Unisoc T606",5050,"6.5 inches",169,2022
+Nokia,"G400 128GB",198,6GB,16MP,48MP,"Snapdragon 480",5000,"6.58 inches",239,2022
+Nokia,"G42 5G 128GB",193,4GB,8MP,50MP,"Snapdragon 480+",5000,"6.56 inches",229,2023
+Nokia,T21,466,4GB,8MP,8MP,"Unisoc T612",8200,"10.4 inches",396,2022
+OnePlus,"OnePlus 10 Pro 256GB",200,12GB,32MP,"50MP + 48MP","Snapdragon 8 Gen 1",5000,"6.7 inches",899,2022
+OnePlus,"OnePlus 10R 128GB",205,8GB,16MP,"50MP + 16MP","MediaTek Dimensity 8100",4500,"6.7 inches",599,2022
+OnePlus,"OnePlus 10T 256GB",203,12GB,16MP,"50MP + 8MP","Snapdragon 8+ Gen 1",4500,"6.7 inches",749,2022
+OnePlus,"OnePlus 10T 5G 256GB",203,12GB,16MP,"50MP + 8MP","Snapdragon 8+ Gen 1",4500,"6.7 inches",749,2022
+OnePlus,"OnePlus 11 256GB",205,12GB,16MP,"50MP + 48MP","Snapdragon 8 Gen 1",5000,"6.7 inches",699,2023
+OnePlus,"OnePlus 11 Pro 256GB",204,16GB,32MP,"50MP + 48MP","Snapdragon 8 Gen 2",5000,"6.7 inches",899,2023
+OnePlus,"OnePlus 11R 256GB",202,12GB,16MP,"50MP + 8MP","Snapdragon 8 Gen 1",5000,"6.7 inches",599,2023
+OnePlus,"OnePlus 11T 128GB",202,12GB,32MP,"50MP + 48MP","Snapdragon 8 Gen 2",5000,"6.7 inches",799,2023
+OnePlus,"OnePlus 12 256GB",205,12GB,32MP,"50MP + 48MP","Snapdragon 8 Gen 3",5000,"6.7 inches",799,2024
+OnePlus,"OnePlus 12R 256GB",203,12GB,16MP,"50MP + 8MP","Snapdragon 8 Gen 2",4500,"6.7 inches",699,2024
+OnePlus,"OnePlus 12T 5G 256GB",200,12GB,16MP,"50MP + 8MP","Snapdragon 8 Gen 2",5000,"6.7 inches",849,2023
+OnePlus,"OnePlus 13 Pro 256GB",215,12GB,32MP,"50MP + 48MP","Snapdragon 8 Gen 2",5000,"6.7 inches",899,2023
+OnePlus,"OnePlus 13R 128GB",210,8GB,16MP,"50MP + 8MP","Snapdragon 8 Gen 2",4500,"6.7 inches",849,2023
+OnePlus,"OnePlus 14+ 128GB",202,8GB,16MP,"64MP + 8MP","Snapdragon 8 Gen 2",4800,"6.55 inches",799,2023
+OnePlus,"OnePlus 15R 128GB",210,12GB,32MP,"50MP + 8MP","Snapdragon 8 Gen 3",5000,"6.7 inches",849,2023
+OnePlus,"OnePlus 5 Special Edition 128GB",155,8GB,16MP,"20MP + 16MP","Snapdragon 835",3300,"5.5 inches",599,2017
+OnePlus,"OnePlus 5T Star Wars Edition 128GB",162,6GB,16MP,"16MP + 20MP","Snapdragon 835",3300,"6.01 inches",649,2017
+OnePlus,"OnePlus 6 Special Edition 128GB",177,6GB,16MP,"20MP + 16MP","Snapdragon 845",3300,"6.28 inches",599,2018
+OnePlus,"OnePlus 6T McLaren Edition 256GB",185,10GB,16MP,"20MP + 16MP","Snapdragon 845",3700,"6.41 inches",799,2018
+OnePlus,"OnePlus 7 Pro 5G 256GB",206,12GB,16MP,"48MP + 8MP","Snapdragon 855",4000,"6.67 inches",799,2019
+OnePlus,"OnePlus 7R 128GB",190,6GB,16MP,"48MP + 5MP","Snapdragon 855",3700,"6.41 inches",599,2020
+OnePlus,"OnePlus 7T Pro 5G McLaren Edition 256GB",206,12GB,16MP,"48MP + 8MP","Snapdragon 855",4085,"6.67 inches",899,2019
+OnePlus,"OnePlus 8 128GB",180,8GB,16MP,"48MP + 16MP","Snapdragon 865",4300,"6.55 inches",699,2020
+OnePlus,"OnePlus 8 Pro 256GB",199,12GB,16MP,"48MP + 48MP","Snapdragon 865",4510,"6.78 inches",749,2020
+OnePlus,"OnePlus 8 Pro McLaren Edition 256GB",199,12GB,16MP,"48MP + 8MP","Snapdragon 865",4510,"6.78 inches",899,2020
+OnePlus,"OnePlus 8R 128GB",192,8GB,16MP,"48MP + 5MP","Snapdragon 865",4300,"6.55 inches",649,2020
+OnePlus,"OnePlus 8T 256GB",188,12GB,16MP,"48MP + 16MP","Snapdragon 865",4500,"6.55 inches",599,2020
+OnePlus,"OnePlus 8T Cyberpunk 2077 Edition 256GB",188,12GB,16MP,"48MP + 16MP","Snapdragon 865",4500,"6.55 inches",749,2020
+OnePlus,"OnePlus 8T Cyberpunk Edition 256GB",188,12GB,16MP,"48MP + 16MP","Snapdragon 865",4500,"6.55 inches",799,2020
+OnePlus,"OnePlus 9 128GB",183,8GB,16MP,"48MP + 50MP","Snapdragon 888",4500,"6.55 inches",599,2021
+OnePlus,"OnePlus 9 Pro 256GB",192,12GB,16MP,"48MP + 50MP","Snapdragon 888",4500,"6.7 inches",699,2021
+OnePlus,"OnePlus 9R 5G 128GB",189,8GB,16MP,"48MP + 5MP","Snapdragon 870",4500,"6.55 inches",599,2021
+OnePlus,"OnePlus 9T 128GB",192,8GB,16MP,"48MP + 50MP","Snapdragon 888",4500,"6.55 inches",649,2021
+OnePlus,"OnePlus Nord 1 128GB",184,6GB,16MP,"48MP + 5MP","Snapdragon 765G",4115,"6.44 inches",349,2020
+OnePlus,"OnePlus Nord 2 128GB",190,8GB,32MP,"50MP + 8MP","MediaTek Dimensity 1200-AI",4500,"6.43 inches",349,2021
+OnePlus,"OnePlus Nord 2 5G 128GB",189,8GB,32MP,"50MP + 8MP","MediaTek Dimensity 1200-AI",4500,"6.43 inches",399,2021
+OnePlus,"OnePlus Nord 2T 128GB",190,8GB,32MP,"50MP + 8MP","MediaTek Dimensity 1300",4500,"6.43 inches",399,2022
+OnePlus,"OnePlus Nord 3 256GB",190,12GB,16MP,"50MP + 8MP","MediaTek Dimensity 9000",5000,"6.74 inches",499,2023
+OnePlus,"OnePlus Nord CE 2 128GB",173,8GB,16MP,"64MP + 8MP","MediaTek Dimensity 1200",4500,"6.43 inches",299,2022
+OnePlus,"OnePlus Nord CE 2 Lite 128GB",195,6GB,16MP,"64MP + 2MP","MediaTek Dimensity 900",5000,"6.59 inches",249,2022
+OnePlus,"OnePlus Nord CE 3 128GB",179,8GB,16MP,"50MP + 2MP","Snapdragon 782G",5000,"6.72 inches",399,2023
+OnePlus,"OnePlus Nord CE 3 Lite 128GB",195,8GB,16MP,108MP,"Snapdragon 695",5000,"6.72 inches",299,2023
+OnePlus,"OnePlus Nord CE 5G 128GB",170,6GB,16MP,"64MP + 8MP","Snapdragon 750G",4500,"6.43 inches",299,2021
+OnePlus,"OnePlus Nord N10 5G 128GB",190,6GB,16MP,"64MP + 8MP","Qualcomm Snapdragon 690",4300,"6.49 inches",299,2020
+OnePlus,"OnePlus Nord N100 5G 64GB",185,4GB,8MP,"13MP + 2MP","Qualcomm Snapdragon 460",5000,"6.52 inches",179,2020
+OnePlus,"OnePlus Nord N100 64GB",185,4GB,8MP,"13MP + 2MP","Qualcomm Snapdragon 460",5000,"6.52 inches",179,2020
+OnePlus,"OnePlus Nord N200 64GB",189,4GB,16MP,"13MP + 2MP","Snapdragon 480",5000,"6.49 inches",199,2021
+OnePlus,"OnePlus Nord N30 5G 128GB",192,8GB,16MP,"64MP + 2MP","MediaTek Dimensity 6020",5000,"6.72 inches",249,2023
+OnePlus,"OnePlus Nord X 128GB",190,8GB,32MP,"64MP + 8MP","Snapdragon 765G",4000,"6.44 inches",299,2020
+OnePlus,"OnePlus Open 256GB",238,16GB,32MP,"48MP + 48MP","Snapdragon 8 Gen 2",4800,"7.8 inches",1099,2024
+OnePlus,"OnePlus Pad",550,8GB,8MP,13MP,"MediaTek Dimensity 9000",9510,"11.61 inches",499,2023
+OnePlus,"OnePlus Pad 2",550,8GB,8MP,13MP,"MediaTek Dimensity 9000",9510,"11.61 inches",549,2024
+OnePlus,"OnePlus Pad Pro",610,12GB,16MP,50MP,"Snapdragon 8 Gen 3",11000,"12.4 inches",799,2024
+Oppo,"A3 128GB",186,4GB,5MP,50MP,"Snapdragon 6s 4G Gen 1",5000,"6.7 inches",399,2024
+Oppo,"A3 4G 128GB",186,4GB,5MP,50MP,"Snapdragon 6s 4G Gen 1",5000,"6.7 inches",399,2024
+Oppo,"A3x 128GB",186,4GB,8MP,"8MP + 2MP","Snapdragon 6s 4G Gen 1",5100,"6.67 inches",449,2024
+Oppo,"A3x 256GB",186,6GB,8MP,"8MP + 2MP","Snapdragon 6s 4G Gen 1",5100,"6.67 inches",499,2024
+Oppo,"A3x 4G 128GB",186,4GB,8MP,"8MP + 2MP","Snapdragon 6s 4G Gen 1",5100,"6.67 inches",449,2024
+Oppo,"A3x 4G 256GB",186,6GB,8MP,"8MP + 2MP","Snapdragon 6s 4G Gen 1",5100,"6.67 inches",499,2024
+Oppo,"A40 128GB",186,4GB,5MP,50MP,"Qualcomm Snapdragon 6s Gen 1",5100,"6.67 inches",199,2024
+Oppo,"A40 256GB",186,6GB,5MP,50MP,"Qualcomm Snapdragon 6s Gen 1",5100,"6.67 inches",229,2024
+Oppo,"A49 5G 128GB",185,4GB,8MP,"13MP + 2MP","MediaTek Dimensity 700",4000,"6.5 inches",129,2020
+Oppo,"A5 Pro 256GB",180,8GB,16MP,"50MP + 2MP","Dimensity 7300",6000,"6.7 inches",599,2024
+Oppo,"A5 Pro 512GB",186,12GB,16MP,"50MP + 2MP","Dimensity 7300",6000,"6.7 inches",699,2024
+Oppo,"A50 5G 128GB",185,4GB,8MP,"13MP + 2MP","MediaTek Dimensity 700",4000,"6.5 inches",139,2020
+Oppo,"A51 5G 128GB",186,4GB,8MP,"13MP + 2MP + 2MP","MediaTek Dimensity 700",4000,"6.5 inches",149,2020
+Oppo,"A52 5G 128GB",184,4GB,8MP,"12MP + 8MP + 2MP + 2MP","MediaTek Dimensity 720",4000,"6.5 inches",169,2020
+Oppo,"A53 5G 128GB",175,4GB,8MP,"16MP + 2MP + 2MP","MediaTek Dimensity 720",4040,"6.5 inches",179,2020
+Oppo,"A54 5G 128GB",190,6GB,16MP,"48MP + 8MP + 2MP + 2MP","Qualcomm Snapdragon 480",5000,"6.5 inches",219,2021
+Oppo,"A55 5G 128GB",186,6GB,8MP,"13MP + 2MP + 2MP","MediaTek Dimensity 700",5000,"6.5 inches",189,2021
+Oppo,"A56 5G 128GB",189,6GB,8MP,"13MP + 2MP","MediaTek Dimensity 700",5000,"6.5 inches",199,2021
+Oppo,"A57 5G 128GB",186,6GB,8MP,"13MP + 2MP","MediaTek Dimensity 810",5000,"6.56 inches",219,2022
+Oppo,"A58 5G 256GB",188,8GB,8MP,"50MP + 2MP","MediaTek Dimensity 700",5000,"6.56 inches",249,2022
+Oppo,"A59 5G 128GB",186,6GB,8MP,"13MP + 2MP","MediaTek Dimensity 6020",5000,"6.56 inches",199,2023
+Oppo,"A59 5G 256GB",186,8GB,8MP,"13MP + 2MP","MediaTek Dimensity 6020",5000,"6.56 inches",229,2023
+Oppo,"A60 128GB",186,8GB,8MP,"50MP + 2MP","Snapdragon 680 4G",5000,"6.67 inches",449,2024
+Oppo,"A60 256GB",186,8GB,8MP,"50MP + 2MP","Snapdragon 680 4G",5000,"6.67 inches",499,2024
+Oppo,"A80 256GB",186,8GB,8MP,"50MP + 2MP","Dimensity 6300",5100,"6.67 inches",499,2024
+Oppo,"F25 Pro 128GB",173,8GB,32MP,"64MP + 2MP","Snapdragon 778G",4500,"6.55 inches",549,2023
+Oppo,"F25 Pro 256GB",173,8GB,32MP,"64MP + 2MP","Snapdragon 778G",4500,"6.55 inches",599,2023
+Oppo,"F27 128GB",175,8GB,32MP,"64MP + 2MP","Dimensity 7050",5000,"6.7 inches",499,2024
+Oppo,"F27 256GB",175,8GB,32MP,"64MP + 2MP","Dimensity 7050",5000,"6.7 inches",549,2024
+Oppo,"F27 Pro+ 256GB",177,8GB,32MP,"64MP + 2MP","Dimensity 7050",5000,"6.7 inches",599,2024
+Oppo,"F27 Pro+ 512GB",177,12GB,32MP,"64MP + 2MP","Dimensity 7050",5000,"6.7 inches",699,2024
+Oppo,"Find N2 256GB",233,12GB,32MP,"50MP + 48MP + 32MP","Snapdragon 8+ Gen 1",4520,"7.1 inches",1099,2022
+Oppo,"Find N2 Flip 256GB",191,8GB,32MP,"50MP + 8MP","Dimensity 9000+",4300,"6.8 inches",899,2023
+Oppo,"Find N2 Flip 512GB",191,12GB,32MP,"50MP + 8MP","Dimensity 9000+",4300,"6.8 inches",999,2023
+Oppo,"Find N3 512GB",239,12GB,32MP,"48MP + 64MP + 48MP","Snapdragon 8 Gen 2",4805,"7.82 inches",1399,2023
+Oppo,"Find N3 Flip 256GB",198,12GB,32MP,"50MP + 32MP + 48MP","MediaTek Dimensity 9200",4300,"6.8 inches",999,2023
+Oppo,"Find X5 256GB",196,8GB,32MP,"50MP + 50MP + 13MP","Snapdragon 888",4800,"6.55 inches",799,2022
+Oppo,"Find X5 Pro 256GB",218,12GB,32MP,"50MP + 50MP + 13MP","Snapdragon 8 Gen 1",5000,"6.7 inches",899,2022
+Oppo,"Find X5 Pro 512GB",218,16GB,32MP,"50MP + 50MP + 13MP","Snapdragon 8 Gen 1",5000,"6.7 inches",999,2022
+Oppo,"Find X6 256GB",207,12GB,32MP,"50MP + 50MP + 50MP","Dimensity 9200",4800,"6.74 inches",899,2023
+Oppo,"Find X6 512GB",207,16GB,32MP,"50MP + 50MP + 50MP","Dimensity 9200",4800,"6.74 inches",999,2023
+Oppo,"Find X6 Pro 256GB",218,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 2",5000,"6.82 inches",999,2023
+Oppo,"Find X6 Pro 512GB",218,16GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 2",5000,"6.82 inches",1099,2023
+Oppo,"Find X7 256GB",206,12GB,32MP,"50MP + 50MP + 64MP","Dimensity 9300",5000,"6.78 inches",1099,2024
+Oppo,"Find X7 512GB",206,16GB,32MP,"50MP + 50MP + 64MP","Dimensity 9300",5000,"6.78 inches",1199,2024
+Oppo,"Find X7 Ultra 256GB",221,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 3",5000,"6.82 inches",1199,2024
+Oppo,"Find X7 Ultra 512GB",221,16GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 3",5000,"6.82 inches",1299,2024
+Oppo,"Find X8 256GB",195,8GB,32MP,"50MP + 50MP","Snapdragon 8 Gen 2",4800,"6.7 inches",1099,2024
+Oppo,"Find X8 Pro 256GB",210,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 2",5000,"6.8 inches",1299,2024
+Oppo,"K10 5G 128GB",205,8GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 8000-Max",5000,"6.59 inches",249,2022
+Oppo,"K10 5G 256GB",205,12GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 8000-Max",5000,"6.59 inches",279,2022
+Oppo,"K10x 128GB",195,6GB,16MP,"64MP + 2MP + 2MP","Qualcomm Snapdragon 695",5000,"6.59 inches",199,2022
+Oppo,"K10x 256GB",195,8GB,16MP,"64MP + 2MP + 2MP","Qualcomm Snapdragon 695",5000,"6.59 inches",229,2022
+Oppo,"K11 128GB",184,8GB,16MP,"64MP + 8MP + 2MP","Qualcomm Snapdragon 782G",5000,"6.7 inches",259,2023
+Oppo,"K11 256GB",184,12GB,16MP,"64MP + 8MP + 2MP","Qualcomm Snapdragon 782G",5000,"6.7 inches",299,2023
+Oppo,"K11x 128GB",195,8GB,16MP,"108MP + 2MP","Qualcomm Snapdragon 695",5000,"6.72 inches",199,2023
+Oppo,"K11x 256GB",195,12GB,16MP,"108MP + 2MP","Qualcomm Snapdragon 695",5000,"6.72 inches",229,2023
+Oppo,"K12 Plus 256GB",192,8GB,16MP,50MP,"Snapdragon 7 Gen 3",6400,"6.7 inches",699,2024
+Oppo,"K12 Plus 512GB",192,12GB,16MP,50MP,"Snapdragon 7 Gen 3",6400,"6.7 inches",799,2024
+Oppo,"K7 5G 128GB",180,8GB,32MP,"48MP + 8MP + 2MP + 2MP","Qualcomm Snapdragon 765G",4025,"6.4 inches",279,2020
+Oppo,"K7 5G 256GB",180,8GB,32MP,"48MP + 8MP + 2MP + 2MP","Qualcomm Snapdragon 765G",4025,"6.4 inches",299,2020
+Oppo,"K7x 128GB",194,6GB,16MP,"48MP + 8MP + 2MP + 2MP","MediaTek Dimensity 720",5000,"6.5 inches",199,2020
+Oppo,"K9 5G 128GB",172,8GB,32MP,"64MP + 8MP + 2MP","Qualcomm Snapdragon 768G",4300,"6.43 inches",279,2021
+Oppo,"K9 5G 256GB",172,8GB,32MP,"64MP + 8MP + 2MP","Qualcomm Snapdragon 768G",4300,"6.43 inches",299,2021
+Oppo,"K9 Pro 5G 128GB",180,8GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 1200",4500,"6.43 inches",299,2021
+Oppo,"K9 Pro 5G 256GB",180,12GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 1200",4500,"6.43 inches",329,2021
+Oppo,"K9x 128GB",194,6GB,16MP,"64MP + 2MP + 2MP","MediaTek Dimensity 810",5000,"6.5 inches",199,2021
+Oppo,"K9x 256GB",194,8GB,16MP,"64MP + 2MP + 2MP","MediaTek Dimensity 810",5000,"6.5 inches",229,2021
+Oppo,"Pad 3 128GB",533,8GB,8MP,13MP,"Dimensity 8350",9510,"11.6 inches",699,2024
+Oppo,"Pad 3 256GB",533,12GB,8MP,13MP,"Dimensity 8350",9510,"11.6 inches",799,2024
+Oppo,"Pad 3 Pro 256GB",586,12GB,8MP,13MP,"Snapdragon 8 Gen 3",9510,"12.1 inches",899,2024
+Oppo,"Pad 3 Pro 512GB",586,16GB,8MP,13MP,"Snapdragon 8 Gen 3",9510,"12.1 inches",999,2024
+Oppo,"Pad Neo 128GB",520,6GB,8MP,13MP,"Snapdragon 870",8360,"11 inches",499,2023
+Oppo,"Pad Neo 256GB",520,8GB,8MP,13MP,"Snapdragon 870",8360,"11 inches",599,2023
+Oppo,"Reno10 5G 128GB",180,8GB,32MP,"64MP + 32MP + 8MP","Dimensity 7050",5000,"6.7 inches",499,2023
+Oppo,"Reno10 5G 256GB",180,8GB,32MP,"64MP + 32MP + 8MP","Dimensity 7050",5000,"6.7 inches",549,2023
+Oppo,"Reno10 Pro 5G 256GB",186,12GB,32MP,"50MP + 32MP + 8MP","Snapdragon 778G",4600,"6.7 inches",599,2023
+Oppo,"Reno10 Pro+ 5G 256GB",194,16GB,32MP,"50MP + 64MP + 8MP","Snapdragon 8+ Gen 1",4700,"6.74 inches",699,2023
+Oppo,"Reno11 F 256GB",185,8GB,32MP,"64MP + 8MP + 2MP","MediaTek Dimensity 7050",5000,"6.7 inches",499,2024
+Oppo,"Reno11 Pro 512GB",190,12GB,32MP,"50MP + 32MP + 8MP","MediaTek Dimensity 8200",4600,"6.74 inches",699,2024
+Oppo,"Reno12 256GB",185,8GB,32MP,"50MP + 8MP","MediaTek Dimensity 7050",5000,"6.7 inches",599,2024
+Oppo,"Reno12 F 256GB",187,8GB,32MP,"50MP + 8MP + 2MP","Snapdragon 685",5000,"6.7 inches",449,2024
+Oppo,"Reno12 F 4G 256GB",187,8GB,32MP,"50MP + 8MP + 2MP","Snapdragon 685",5000,"6.7 inches",449,2024
+Oppo,"Reno12 Pro 512GB",190,12GB,32MP,"50MP + 32MP + 8MP","MediaTek Dimensity 8200",4600,"6.74 inches",749,2024
+Oppo,"Reno13 256GB",200,12GB,50MP,"50MP + 8MP","MediaTek Dimensity 8350",5600,"6.59 inches",699,2025
+Oppo,"Reno13 F 256GB",192,8GB,32MP,"50MP + 8MP + 2MP","MediaTek Helio G100",5800,"6.67 inches",499,2025
+Oppo,"Reno13 F 4G 256GB",192,8GB,32MP,"50MP + 8MP + 2MP","MediaTek Helio G100",5800,"6.67 inches",499,2025
+Oppo,"Reno13 Pro 512GB",210,12GB,50MP,"50MP + 50MP + 8MP","MediaTek Dimensity 8350",5800,"6.83 inches",799,2025
+Oppo,"Reno3 5G 128GB",181,8GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1000L",4025,"6.4 inches",249,2019
+Oppo,"Reno3 5G 256GB",181,12GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1000L",4025,"6.4 inches",299,2019
+Oppo,"Reno3 Pro 5G 256GB",171,12GB,32MP,"48MP + 13MP + 8MP + 2MP","Snapdragon 765G",4025,"6.5 inches",499,2019
+Oppo,"Reno4 5G 128GB",183,8GB,32MP,"48MP + 8MP + 2MP + 2MP","Snapdragon 765G",4000,"6.43 inches",299,2020
+Oppo,"Reno4 5G 256GB",183,8GB,32MP,"48MP + 8MP + 2MP + 2MP","Snapdragon 765G",4000,"6.43 inches",349,2020
+Oppo,"Reno4 Pro 5G 256GB",172,12GB,32MP,"48MP + 13MP + 12MP","Snapdragon 765G",4000,"6.55 inches",499,2020
+Oppo,"Reno5 5G 128GB",180,8GB,32MP,"64MP + 8MP + 2MP + 2MP","Snapdragon 765G",4300,"6.43 inches",299,2020
+Oppo,"Reno5 5G 256GB",180,12GB,32MP,"64MP + 8MP + 2MP + 2MP","Snapdragon 765G",4300,"6.43 inches",349,2020
+Oppo,"Reno5 Pro 5G 128GB",173,8GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1000+",4350,"6.55 inches",399,2020
+Oppo,"Reno5 Pro 5G 256GB",173,12GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1000+",4350,"6.55 inches",449,2020
+Oppo,"Reno5 Pro+ 5G 256GB",184,12GB,32MP,"50MP + 16MP + 13MP + 2MP","Snapdragon 865",4500,"6.55 inches",599,2020
+Oppo,"Reno6 5G 128GB",182,8GB,32MP,"64MP + 8MP + 2MP","Dimensity 900",4300,"6.43 inches",349,2021
+Oppo,"Reno6 5G 256GB",182,12GB,32MP,"64MP + 8MP + 2MP","Dimensity 900",4300,"6.43 inches",399,2021
+Oppo,"Reno6 Pro 5G 128GB",177,8GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1200",4500,"6.55 inches",449,2021
+Oppo,"Reno6 Pro 5G 256GB",177,12GB,32MP,"64MP + 8MP + 2MP + 2MP","Dimensity 1200",4500,"6.55 inches",499,2021
+Oppo,"Reno6 Pro+ 5G 256GB",188,12GB,32MP,"50MP + 13MP + 16MP + 2MP","Snapdragon 870",4500,"6.55 inches",599,2021
+Oppo,"Reno7 5G 128GB",173,8GB,32MP,"64MP + 8MP + 2MP","Dimensity 900",4500,"6.4 inches",349,2021
+Oppo,"Reno7 5G 256GB",173,12GB,32MP,"64MP + 8MP + 2MP","Dimensity 900",4500,"6.4 inches",399,2021
+Oppo,"Reno7 Pro 5G 256GB",180,12GB,32MP,"50MP + 8MP + 2MP","Dimensity 1200",4500,"6.55 inches",499,2021
+Oppo,"Reno8 5G 128GB",179,8GB,32MP,"50MP + 8MP + 2MP","Dimensity 1300",4500,"6.4 inches",399,2022
+Oppo,"Reno8 5G 256GB",179,12GB,32MP,"50MP + 8MP + 2MP","Dimensity 1300",4500,"6.4 inches",449,2022
+Oppo,"Reno8 Pro 5G 256GB",183,12GB,32MP,"50MP + 8MP + 2MP","Dimensity 8100",4500,"6.7 inches",549,2022
+Oppo,"Reno8 Pro+ 5G 256GB",195,12GB,32MP,"50MP + 8MP + 2MP","Dimensity 8100",4500,"6.7 inches",599,2022
+Oppo,"Reno9 5G 128GB",174,8GB,32MP,"64MP + 2MP","Snapdragon 778G",4500,"6.7 inches",449,2022
+Oppo,"Reno9 5G 256GB",174,12GB,32MP,"64MP + 2MP","Snapdragon 778G",4500,"6.7 inches",499,2022
+Oppo,"Reno9 Pro 5G 256GB",184,16GB,32MP,"50MP + 8MP","Dimensity 8100",4500,"6.7 inches",599,2022
+Oppo,"Reno9 Pro+ 5G 256GB",192,16GB,32MP,"50MP + 8MP + 2MP","Snapdragon 8+ Gen 1",4700,"6.7 inches",649,2022
+POCO,"C65 64GB",190,4GB,5MP,50MP,"MediaTek Helio G85",5000,"6.5 inches",149,2024
+POCO,"F2 Pro 128GB",219,6GB,20MP,64MP,"Snapdragon 865",4700,"6.67 inches",499,2020
+POCO,"F3 128GB",196,6GB,20MP,48MP,"Snapdragon 870",4520,"6.67 inches",349,2021
+POCO,"F3 GT 128GB",205,6GB,16MP,64MP,"MediaTek Dimensity 1200",5065,"6.67 inches",399,2021
+POCO,"F4 128GB",195,6GB,20MP,64MP,"Snapdragon 870",4500,"6.67 inches",349,2022
+POCO,"F4 GT 128GB",210,8GB,20MP,64MP,"Snapdragon 8 Gen 1",4700,"6.67 inches",499,2022
+POCO,"F5 128GB",181,6GB,16MP,64MP,"Snapdragon 7+ Gen 2",5000,"6.67 inches",349,2023
+POCO,"F5 Pro 256GB",204,8GB,20MP,64MP,"Snapdragon 8+ Gen 1",5160,"6.67 inches",499,2023
+POCO,"F6 128GB",190,6GB,20MP,64MP,"Snapdragon 8 Gen 2",5000,"6.67 inches",449,2024
+POCO,"F6 Pro 256GB",210,8GB,20MP,108MP,"Snapdragon 8+ Gen 2",5160,"6.67 inches",549,2024
+POCO,"M2 Pro 64GB",209,4GB,16MP,48MP,"Snapdragon 720G",5000,"6.67 inches",199,2020
+POCO,"M3 64GB",198,4GB,8MP,48MP,"Snapdragon 662",6000,"6.53 inches",149,2020
+POCO,"M3 Pro 5G 64GB",190,4GB,8MP,48MP,"MediaTek Dimensity 700",5000,"6.5 inches",199,2021
+POCO,"M4 Pro 128GB",179,6GB,16MP,64MP,"MediaTek Helio G96",5000,"6.43 inches",219,2022
+POCO,"M4 Pro 5G 128GB",195,4GB,16MP,50MP,"MediaTek Dimensity 810",5000,"6.6 inches",219,2021
+POCO,"M5 128GB",201,4GB,5MP,50MP,"MediaTek Helio G99",5000,"6.58 inches",199,2022
+POCO,"M5s 128GB",179,4GB,13MP,64MP,"MediaTek Helio G95",5000,"6.43 inches",229,2022
+POCO,"M6 64GB",199,4GB,8MP,50MP,"MediaTek Helio G88",5000,"6.58 inches",199,2023
+POCO,"M6 Pro 128GB",202,6GB,8MP,50MP,"Snapdragon 4 Gen 1",5000,"6.79 inches",219,2023
+POCO,"M7 5G 128GB",198,6GB,8MP,50MP,"MediaTek Dimensity 7025",5110,"6.67 inches",229,2024
+Poco,"Pad 5G 128GB",571,8GB,8MP,8MP,"Snapdragon 7s Gen 2",10000,"12.1 inches",280,2024
+Poco,"Pad 5G 256GB",571,8GB,8MP,8MP,"Snapdragon 7s Gen 2",10000,"12.1 inches",300,2024
+POCO,"X3 GT 128GB",193,6GB,16MP,64MP,"MediaTek Dimensity 1100",5000,"6.6 inches",279,2021
+POCO,"X3 NFC 128GB",215,6GB,20MP,64MP,"Snapdragon 732G",5160,"6.67 inches",229,2020
+POCO,"X3 Pro 128GB",215,6GB,20MP,48MP,"Snapdragon 860",5160,"6.67 inches",249,2021
+POCO,"X4 Pro 5G 128GB",205,6GB,16MP,108MP,"Snapdragon 695",5000,"6.67 inches",299,2022
+POCO,"X5 128GB",189,6GB,13MP,48MP,"Snapdragon 695",5000,"6.67 inches",279,2023
+POCO,"X5 Pro 128GB",181,6GB,16MP,108MP,"Snapdragon 778G",5000,"6.67 inches",329,2023
+POCO,"X6 128GB",193,6GB,16MP,64MP,"MediaTek Dimensity 8100",5000,"6.67 inches",349,2024
+POCO,"X6 Pro 256GB",205,8GB,20MP,108MP,"MediaTek Dimensity 8300",5000,"6.67 inches",399,2024
+POCO,"X7 128GB",195,6GB,16MP,64MP,"MediaTek Dimensity 8200",5000,"6.67 inches",329,2025
+POCO,"X7 Pro 256GB",207,8GB,20MP,108MP,"MediaTek Dimensity 8400",6000,"6.67 inches",399,2025
+Realme,"13 5G 128GB",190,6GB,16MP,"50MP + 2MP","MediaTek Dimensity 6100+",5000,"6.6 inches",220,2024
+Realme,"13 5G 256GB",190,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 6100+",5000,"6.6 inches",240,2024
+Realme,"13 Pro 5G 128GB",192,8GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 7s Gen 2",5200,"6.7 inches",300,2024
+Realme,"13 Pro 5G 256GB",192,12GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 7s Gen 2",5200,"6.7 inches",320,2024
+Realme,"13 Pro+ 5G 256GB",195,12GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7+ Gen 2",5500,"6.78 inches",360,2024
+Realme,"13 Pro+ 5G 512GB",195,16GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7+ Gen 2",5500,"6.78 inches",380,2024
+Realme,"13+ 5G 128GB",185,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 7200",5000,"6.5 inches",250,2024
+Realme,"13+ 5G 256GB",185,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 7200",5000,"6.5 inches",270,2024
+Realme,"14 Pro 5G 128GB",184,8GB,16MP,"50MP + 8MP","MediaTek Dimensity 7300 Energy",5800,"6.7 inches",320,2025
+Realme,"14 Pro 5G 256GB",184,8GB,16MP,"50MP + 8MP","MediaTek Dimensity 7300 Energy",5800,"6.7 inches",340,2025
+Realme,"14 Pro+ 5G 256GB",184,12GB,16MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7s Gen 3",6000,"6.83 inches",340,2025
+Realme,"14 Pro+ 5G 512GB",184,12GB,16MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7s Gen 3",6000,"6.83 inches",360,2025
+Realme,"14x 5G 128GB",190,6GB,16MP,"48MP + 2MP + 2MP","Qualcomm Snapdragon 7s Gen 2",5500,"6.6 inches",270,2025
+Realme,"14x 5G 256GB",190,8GB,16MP,"48MP + 2MP + 2MP","Qualcomm Snapdragon 7s Gen 2",5500,"6.6 inches",290,2025
+Realme,"C55 128GB",189,6GB,8MP,"64MP + 2MP","MediaTek Helio G88",5000,"6.72 inches",170,2023
+Realme,"C55 256GB",189,8GB,8MP,"64MP + 2MP","MediaTek Helio G88",5000,"6.72 inches",190,2023
+Realme,"C61 128GB",189,4GB,8MP,"50MP + 2MP","Unisoc T612",5000,"6.5 inches",130,2024
+Realme,"C63 128GB",191,6GB,8MP,"50MP + 2MP","MediaTek Helio G85",5000,"6.6 inches",150,2024
+Realme,"C65 128GB",192,6GB,8MP,"50MP + 2MP","Qualcomm Snapdragon 680",5000,"6.6 inches",160,2024
+Realme,"C65 256GB",192,8GB,8MP,"50MP + 2MP","Qualcomm Snapdragon 680",5000,"6.6 inches",180,2024
+Realme,"C67 128GB",195,6GB,8MP,"50MP + 2MP","MediaTek Helio G88",5000,"6.6 inches",170,2024
+Realme,"C67 256GB",195,8GB,8MP,"50MP + 2MP","MediaTek Helio G88",5000,"6.6 inches",190,2024
+Realme,"C75 128GB",190,6GB,8MP,"50MP + 2MP","MediaTek Helio G85",5000,"6.6 inches",160,2024
+Realme,"C75 256GB",190,8GB,8MP,"50MP + 2MP","MediaTek Helio G85",5000,"6.6 inches",180,2024
+Realme,"GT 6 128GB",191,8GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 8s Gen 3",5500,"6.78 inches",380,2023
+Realme,"GT 6 256GB",191,12GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 8s Gen 3",5500,"6.78 inches",400,2023
+Realme,"GT 6 512GB",191,16GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 8s Gen 3",5500,"6.78 inches",420,2023
+Realme,"GT 6T 128GB",191,8GB,32MP,"50MP + 8MP","Qualcomm Snapdragon 7 Plus Gen 3",5500,"6.78 inches",360,2023
+Realme,"GT 6T 256GB",191,8GB,32MP,"50MP + 8MP","Qualcomm Snapdragon 7 Plus Gen 3",5500,"6.78 inches",380,2023
+Realme,"GT 7 128GB",199,8GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 8 Gen 2",5200,"6.8 inches",440,2024
+Realme,"GT 7 256GB",199,12GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 8 Gen 2",5200,"6.8 inches",500,2024
+Realme,"GT 7 Pro 128GB",223,12GB,16MP,"50MP + 50MP + 8MP","Qualcomm Snapdragon 8 Elite",6500,"6.78 inches",470,2024
+Realme,"GT 7 Pro 256GB",223,16GB,16MP,"50MP + 50MP + 8MP","Qualcomm Snapdragon 8 Elite",6500,"6.78 inches",500,2024
+Realme,"Narzo 70 5G 128GB",198,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 810",5200,"6.6 inches",230,2024
+Realme,"Narzo 70 Turbo 5G 128GB",200,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 810",5000,"6.6 inches",240,2024
+Realme,"Narzo 70 Turbo 5G 256GB",200,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 810",5000,"6.6 inches",260,2024
+Realme,"Narzo N61 128GB",195,6GB,16MP,"50MP + 2MP","MediaTek Helio G99",5000,"6.5 inches",180,2024
+Realme,"Narzo N63 128GB",193,6GB,16MP,"50MP + 2MP","MediaTek Helio G88",5000,"6.5 inches",160,2024
+Realme,"Narzo N65 5G 128GB",198,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 700",5000,"6.6 inches",210,2024
+Realme,"Neo 7 128GB",193,8GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 8200",5000,"6.7 inches",330,2024
+Realme,"Neo 7 256GB",193,12GB,16MP,"64MP + 8MP + 2MP","MediaTek Dimensity 8200",5000,"6.7 inches",380,2024
+Realme,"Note 50 128GB",195,6GB,16MP,"50MP + 2MP","MediaTek Helio G99",5000,"6.5 inches",170,2024
+Realme,"Note 60 128GB",196,6GB,16MP,"50MP + 2MP","MediaTek Dimensity 810",5200,"6.6 inches",220,2024
+Realme,"Note 60 256GB",196,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 810",5200,"6.6 inches",240,2024
+Realme,"Note 60x 128GB",198,6GB,16MP,"50MP + 2MP","MediaTek Dimensity 6100+",5200,"6.6 inches",210,2024
+Realme,"P1 5G 128GB",184,6GB,16MP,"50MP + 2MP","MediaTek Dimensity 6100+",5000,"6.6 inches",200,2024
+Realme,"P1 5G 256GB",184,8GB,16MP,"50MP + 2MP","MediaTek Dimensity 6100+",5000,"6.6 inches",220,2024
+Realme,"P1 Pro 5G 128GB",190,8GB,16MP,"64MP + 2MP","Qualcomm Snapdragon 7s Gen 1",5200,"6.7 inches",270,2024
+Realme,"P1 Pro 5G 256GB",190,12GB,16MP,"64MP + 2MP","Qualcomm Snapdragon 7s Gen 1",5200,"6.7 inches",290,2024
+Realme,"P1 Speed 5G 128GB",185,8GB,16MP,"64MP + 2MP","MediaTek Dimensity 8100",5100,"6.7 inches",250,2024
+Realme,"P1 Speed 5G 256GB",185,12GB,16MP,"64MP + 2MP","MediaTek Dimensity 8100",5100,"6.7 inches",270,2024
+Realme,"P2 Pro 5G 128GB",195,8GB,16MP,"50MP + 8MP","MediaTek Dimensity 9200",5100,"6.7 inches",350,2024
+Realme,"P2 Pro 5G 256GB",188,12GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7+ Gen 3",5500,"6.78 inches",340,2024
+Realme,"P2 Pro 5G 256GB",195,12GB,16MP,"50MP + 8MP","MediaTek Dimensity 9200",5100,"6.7 inches",400,2024
+Realme,"P2 Pro 5G 512GB",188,16GB,32MP,"50MP + 8MP + 50MP","Qualcomm Snapdragon 7+ Gen 3",5500,"6.78 inches",360,2024
+Realme,"Pad 128GB",440,6GB,8MP,8MP,"MediaTek Helio G80",7100,"10.4 inches",230,2021
+Realme,"Pad 2 128GB",482,6GB,8MP,8MP,"MediaTek Helio G99",8360,"11.5 inches",280,2023
+Realme,"Pad 2 256GB",482,8GB,8MP,8MP,"MediaTek Helio G99",8360,"11.5 inches",320,2023
+Realme,"Pad 2 Lite 128GB",466,6GB,8MP,8MP,"MediaTek Helio G85",7100,"10.4 inches",210,2023
+Realme,"Pad 2 Lite 64GB",466,4GB,8MP,8MP,"MediaTek Helio G85",7100,"10.4 inches",190,2023
+Realme,"Pad 64GB",440,4GB,8MP,8MP,"MediaTek Helio G80",7100,"10.4 inches",200,2021
+Realme,"Pad Mini 32GB",372,3GB,5MP,8MP,"Unisoc T616",6400,"8.7 inches",160,2022
+Realme,"Pad Mini 64GB",372,4GB,5MP,8MP,"Unisoc T616",6400,"8.7 inches",180,2022
+Realme,"Pad Slim 128GB",440,6GB,8MP,8MP,"MediaTek Helio G80",7100,"10.4 inches",220,2022
+Realme,"Pad Slim 64GB",440,4GB,8MP,8MP,"MediaTek Helio G80",7100,"10.4 inches",200,2022
+Realme,"Pad X 128GB",499,6GB,8MP,13MP,"Qualcomm Snapdragon 695",8340,"11 inches",350,2022
+Realme,"Pad X 64GB",499,4GB,8MP,13MP,"Qualcomm Snapdragon 695",8340,"11 inches",310,2022
+Realme,"TechLife Pad Neo 128GB",465,6GB,8MP,8MP,"MediaTek Helio G85",7200,"10.5 inches",230,2024
+Realme,"TechLife Pad Neo 64GB",465,4GB,8MP,8MP,"MediaTek Helio G85",7200,"10.5 inches",210,2024
+Samsung,"Galaxy A04 128GB",188,4GB,5MP,"50MP + 2MP","Exynos 850",5000,"6.5 inches",249,2022
+Samsung,"Galaxy A04 64GB",188,4GB,5MP,"50MP + 2MP","Exynos 850",5000,"6.5 inches",199,2022
+Samsung,"Galaxy A14 128GB",190,4GB,13MP,"50MP + 2MP","Exynos 850",5000,"6.6 inches",249,2023
+Samsung,"Galaxy A14 256GB",190,4GB,13MP,"50MP + 2MP","Exynos 850",5000,"6.6 inches",299,2023
+Samsung,"Galaxy A24 128GB",195,6GB,13MP,"50MP + 5MP","MediaTek Helio G99",5000,"6.5 inches",299,2023
+Samsung,"Galaxy A24 256GB",195,6GB,13MP,"50MP + 5MP","MediaTek Helio G99",5000,"6.5 inches",349,2023
+Samsung,"Galaxy A34 128GB",199,6GB,13MP,"48MP + 8MP","MediaTek Dimensity 1080",5000,"6.6 inches",349,2023
+Samsung,"Galaxy A34 256GB",199,6GB,13MP,"48MP + 8MP","MediaTek Dimensity 1080",5000,"6.6 inches",399,2023
+Samsung,"Galaxy A54 128GB",189,6GB,32MP,"50MP + 12MP","Exynos 1380",5000,"6.4 inches",399,2023
+Samsung,"Galaxy A54 256GB",189,6GB,32MP,"50MP + 12MP","Exynos 1380",5000,"6.4 inches",449,2023
+Samsung,"Galaxy C5 32GB",143,4GB,8MP,16MP,"Snapdragon 617",2600,"5.2 inches",249,2016
+Samsung,"Galaxy C7 Pro 64GB",165,4GB,16MP,16MP,"Snapdragon 625",3300,"5.7 inches",299,2017
+Samsung,"Galaxy C9 Pro 64GB",189,6GB,16MP,"16MP + 8MP","Snapdragon 653",4000,"6.0 inches",399,2016
+Samsung,"Galaxy F14 128GB",198,4GB,13MP,"50MP + 2MP","Exynos 850",6000,"6.6 inches",249,2023
+Samsung,"Galaxy F14 256GB",198,4GB,13MP,"50MP + 2MP","Exynos 850",6000,"6.6 inches",299,2023
+Samsung,"Galaxy F34 128GB",190,6GB,13MP,"50MP + 8MP","Exynos 1280",6000,"6.5 inches",299,2023
+Samsung,"Galaxy F34 256GB",190,6GB,13MP,"50MP + 8MP","Exynos 1280",6000,"6.5 inches",349,2023
+Samsung,"Galaxy F54 128GB",199,8GB,32MP,"108MP + 8MP","Exynos 1380",6000,"6.7 inches",349,2023
+Samsung,"Galaxy F54 256GB",199,8GB,32MP,"108MP + 8MP","Exynos 1380",6000,"6.7 inches",399,2023
+Samsung,"Galaxy J4 16GB",175,2GB,5MP,13MP,"Exynos 7570",3000,"5.5 inches",129,2018
+Samsung,"Galaxy J6+ 64GB",178,4GB,8MP,"13MP + 5MP","Snapdragon 425",3300,"6.0 inches",169,2018
+Samsung,"Galaxy J7 Pro 64GB",181,3GB,13MP,13MP,"Exynos 7870",3600,"5.5 inches",179,2017
+Samsung,"Galaxy J8 64GB",191,4GB,16MP,"16MP + 5MP","Snapdragon 450",3500,"6.0 inches",199,2018
+Samsung,"Galaxy M04 128GB",188,4GB,5MP,"13MP + 2MP","MediaTek Helio P35",5000,"6.5 inches",249,2022
+Samsung,"Galaxy M04 64GB",188,4GB,5MP,"13MP + 2MP","MediaTek Helio P35",5000,"6.5 inches",199,2022
+Samsung,"Galaxy M14 128GB",202,4GB,13MP,"50MP + 2MP","Exynos 850",6000,"6.6 inches",249,2023
+Samsung,"Galaxy M14 256GB",202,4GB,13MP,"50MP + 2MP","Exynos 850",6000,"6.6 inches",299,2023
+Samsung,"Galaxy M34 128GB",199,6GB,13MP,"50MP + 8MP","Exynos 1280",6000,"6.5 inches",299,2023
+Samsung,"Galaxy M34 256GB",199,6GB,13MP,"50MP + 8MP","Exynos 1280",6000,"6.5 inches",349,2023
+Samsung,"Galaxy M54 128GB",202,8GB,32MP,"108MP + 8MP","Exynos 1380",6000,"6.7 inches",349,2023
+Samsung,"Galaxy M54 256GB",202,8GB,32MP,"108MP + 8MP","Exynos 1380",6000,"6.7 inches",399,2023
+Samsung,"Galaxy Note 10 128GB",168,8GB,10MP,"12MP + 16MP","Exynos 9825",3500,"6.3 inches",899,2019
+Samsung,"Galaxy Note 10 256GB",168,8GB,10MP,"12MP + 16MP","Exynos 9825",3500,"6.3 inches",949,2019
+Samsung,"Galaxy Note 10+ 256GB",196,12GB,10MP,"12MP + 16MP","Exynos 9825",4300,"6.8 inches",1099,2019
+Samsung,"Galaxy Note 10+ 512GB",196,12GB,10MP,"12MP + 16MP","Exynos 9825",4300,"6.8 inches",1199,2019
+Samsung,"Galaxy Note 20 128GB",192,8GB,10MP,"108MP + 12MP","Exynos 990",4300,"6.7 inches",999,2020
+Samsung,"Galaxy Note 20 256GB",192,8GB,10MP,"108MP + 12MP","Exynos 990",4300,"6.7 inches",1099,2020
+Samsung,"Galaxy Note 20 Ultra 128GB",208,12GB,10MP,"108MP + 12MP","Exynos 990",4500,"6.9 inches",1299,2020
+Samsung,"Galaxy Note 20 Ultra 256GB",208,12GB,10MP,"108MP + 12MP","Exynos 990",4500,"6.9 inches",1399,2020
+Samsung,"Galaxy S22 128GB",167,8GB,10MP,"50MP + 12MP","Exynos 2200",3800,"6.1 inches",699,2022
+Samsung,"Galaxy S22 256GB",167,8GB,10MP,"50MP + 12MP","Exynos 2200",3800,"6.1 inches",799,2022
+Samsung,"Galaxy S22 Ultra 128GB",228,12GB,10MP,"108MP + 12MP","Exynos 2200",5000,"6.8 inches",1099,2022
+Samsung,"Galaxy S22 Ultra 256GB",228,12GB,10MP,"108MP + 12MP","Exynos 2200",5000,"6.8 inches",1199,2022
+Samsung,"Galaxy S22+ 128GB",195,8GB,10MP,"50MP + 12MP","Exynos 2200",4500,"6.6 inches",799,2022
+Samsung,"Galaxy S22+ 256GB",195,8GB,10MP,"50MP + 12MP","Exynos 2200",4500,"6.6 inches",899,2022
+Samsung,"Galaxy S23 128GB",168,8GB,12MP,"50MP + 12MP","Snapdragon 8 Gen 2",3900,"6.1 inches",799,2023
+Samsung,"Galaxy S23 256GB",168,8GB,12MP,"50MP + 12MP","Snapdragon 8 Gen 2",3900,"6.1 inches",899,2023
+Samsung,"Galaxy S23 Ultra 128GB",228,12GB,12MP,"200MP + 12MP","Snapdragon 8 Gen 2",5000,"6.8 inches",1199,2023
+Samsung,"Galaxy S23 Ultra 256GB",228,12GB,12MP,"200MP + 12MP","Snapdragon 8 Gen 2",5000,"6.8 inches",1299,2023
+Samsung,"Galaxy S23+ 128GB",196,8GB,12MP,"50MP + 12MP","Snapdragon 8 Gen 2",4700,"6.6 inches",899,2023
+Samsung,"Galaxy S23+ 256GB",196,8GB,12MP,"50MP + 12MP","Snapdragon 8 Gen 2",4700,"6.6 inches",999,2023
+Samsung,"Galaxy S24 128GB",168,8GB,12MP,"50MP + 12MP","Exynos 2400",4000,"6.1 inches",799,2024
+Samsung,"Galaxy S24 256GB",168,8GB,12MP,"50MP + 12MP","Exynos 2400",4000,"6.1 inches",899,2024
+Samsung,"Galaxy S24 Ultra 128GB",234,12GB,12MP,"200MP + 12MP","Exynos 2400",5000,"6.8 inches",1199,2024
+Samsung,"Galaxy S24 Ultra 256GB",234,12GB,12MP,"200MP + 12MP","Exynos 2400",5000,"6.8 inches",1299,2024
+Samsung,"Galaxy S24+ 128GB",196,8GB,12MP,"50MP + 12MP","Exynos 2400",4800,"6.6 inches",899,2024
+Samsung,"Galaxy S24+ 256GB",196,8GB,12MP,"50MP + 12MP","Exynos 2400",4800,"6.6 inches",999,2024
+Samsung,"Galaxy Tab A7 Lite 32GB",366,3GB,2MP,8MP,"MediaTek Helio P22T",5100,"8.7 inches",149,2021
+Samsung,"Galaxy Tab A8 64GB",508,4GB,5MP,8MP,"Unisoc T618",7040,"10.5 inches",199,2022
+Samsung,"Galaxy Tab A9 64GB",366,4GB,2MP,8MP,"MediaTek Helio G99",5100,"8.7 inches",179,2023
+Samsung,"Galaxy Tab A9+ 128GB",480,8GB,5MP,8MP,"Snapdragon 695",7040,"11 inches",229,2023
+Samsung,"Galaxy Tab Active 3 64GB",426,4GB,5MP,13MP,"Exynos 9810",5050,"8 inches",499,2020
+Samsung,"Galaxy Tab Active 4 Pro 128GB",674,6GB,8MP,13MP,"Snapdragon 778G",7600,"10.1 inches",649,2022
+Samsung,"Galaxy Tab Active 5 128GB",433,6GB,5MP,13MP,"Exynos 1380",5050,"8 inches",549,2024
+Samsung,"Galaxy Tab E 10.1 16GB",490,1.5GB,2MP,5MP,"Spreadtrum SC8830",5000,"10.1 inches",129,2016
+Samsung,"Galaxy Tab E 8.0 16GB",360,1.5GB,2MP,5MP,"Qualcomm MSM8916",5000,"8 inches",99,2016
+Samsung,"Galaxy Tab S8 128GB",503,8GB,12MP,"13MP + 6MP","Snapdragon 8 Gen 1",8000,"11 inches",699,2022
+Samsung,"Galaxy Tab S8 Ultra 256GB",726,12GB,"12MP + 12MP","13MP + 6MP","Snapdragon 8 Gen 1",11200,"14.6 inches",1099,2022
+Samsung,"Galaxy Tab S8+ 256GB",567,8GB,12MP,"13MP + 6MP","Snapdragon 8 Gen 1",10090,"12.4 inches",899,2022
+Samsung,"Galaxy Tab S9 128GB",498,8GB,12MP,13MP,"Snapdragon 8 Gen 2",8400,"11 inches",799,2023
+Samsung,"Galaxy Tab S9 FE 128GB",523,6GB,12MP,8MP,"Exynos 1380",8000,"10.9 inches",549,2023
+Samsung,"Galaxy Tab S9 Ultra 256GB",732,12GB,"12MP + 12MP","13MP + 8MP","Snapdragon 8 Gen 2",11200,"14.6 inches",1199,2023
+Samsung,"Galaxy Tab S9+ 256GB",586,12GB,12MP,"13MP + 8MP","Snapdragon 8 Gen 2",10090,"12.4 inches",999,2023
+Samsung,"Galaxy W21 5G 256GB",229,12GB,10MP,"108MP + 12MP","Snapdragon 888",4500,"7.6 inches",1399,2020
+Samsung,"Galaxy W22 5G 256GB",228,12GB,10MP,"108MP + 12MP","Snapdragon 888",4500,"7.6 inches",1499,2021
+Samsung,"Galaxy Xcover 5 64GB",172,4GB,5MP,16MP,"Exynos 850",3000,"5.3 inches",249,2020
+Samsung,"Galaxy Xcover 6 Pro 128GB",235,6GB,13MP,50MP,"Exynos 1380",4050,"6.6 inches",499,2022
+Samsung,"Galaxy Z Flip 4 256GB",187,8GB,10MP,"12MP + 12MP","Snapdragon 8 Gen 1",3700,"6.7 inches",999,2022
+Samsung,"Galaxy Z Flip 4 512GB",187,8GB,10MP,"12MP + 12MP","Snapdragon 8 Gen 1",3700,"6.7 inches",1099,2022
+Samsung,"Galaxy Z Flip 5 256GB",187,8GB,12MP,"12MP + 12MP","Snapdragon 8 Gen 2",3700,"6.7 inches",999,2023
+Samsung,"Galaxy Z Flip 5 512GB",187,8GB,12MP,"12MP + 12MP","Snapdragon 8 Gen 2",3700,"6.7 inches",1099,2023
+Samsung,"Galaxy Z Fold 4 256GB",263,12GB,10MP,"50MP + 12MP","Snapdragon 8 Gen 1",4400,"7.6 inches",1799,2022
+Samsung,"Galaxy Z Fold 4 512GB",263,12GB,10MP,"50MP + 12MP","Snapdragon 8 Gen 1",4400,"7.6 inches",1899,2022
+Samsung,"Galaxy Z Fold 5 256GB",254,12GB,10MP,"50MP + 12MP","Snapdragon 8 Gen 2",4400,"7.6 inches",1799,2023
+Samsung,"Galaxy Z Fold 5 512GB",254,12GB,10MP,"50MP + 12MP","Snapdragon 8 Gen 2",4400,"7.6 inches",1899,2023
+Samsung,"Galaxy Z Fold6 1TB",239,12GB,"10MP, 4MP",50MP,"Snapdragon 8 Gen 3",4400,"7.6 inches",2259,2024
+Samsung,"Galaxy Z Fold6 256GB",239,12GB,"10MP, 4MP",50MP,"Snapdragon 8 Gen 3",4400,"7.6 inches",1899,2024
+Samsung,"Galaxy Z Fold6 512GB",239,12GB,"10MP, 4MP",50MP,"Snapdragon 8 Gen 3",4400,"7.6 inches",1719,2024
+Sony,"Xperia 1 IV 256GB",185,12GB,12MP,12MP,"Snapdragon 8 Gen 1",5000,"6.5 inches",1599,2022
+Sony,"Xperia 1 V 256GB",187,12GB,12MP,48MP,"Snapdragon 8 Gen 2",5000,"6.5 inches",1699,2023
+Sony,"Xperia 1 VI 256GB",190,12GB,12MP,48MP,"Snapdragon 8 Gen 3",5000,"6.5 inches",1799,2024
+Sony,"Xperia 10 IV 128GB",161,6GB,8MP,12MP,"Snapdragon 695",5000,"6.0 inches",499,2022
+Sony,"Xperia 10 V 128GB",164,6GB,8MP,48MP,"Snapdragon 695",5000,"6.1 inches",599,2023
+Sony,"Xperia 10 VI 128GB",167,6GB,8MP,48MP,"Snapdragon 7 Gen 1",5000,"6.1 inches",699,2024
+Sony,"Xperia 5 IV 128GB",172,8GB,12MP,12MP,"Snapdragon 8 Gen 1",5000,"6.1 inches",999,2022
+Sony,"Xperia 5 V 128GB",178,8GB,12MP,48MP,"Snapdragon 8 Gen 2",5000,"6.1 inches",1099,2023
+Sony,"Xperia 5 VI 128GB",180,8GB,12MP,48MP,"Snapdragon 8 Gen 3",5000,"6.1 inches",1199,2024
+Tecno,"Camon 20 128GB",195,6GB,32MP,50MP,"MediaTek Helio G99",5000,"6.7 inches",349,2024
+Tecno,"Camon 20 Premier 512GB",205,12GB,50MP,108MP,"MediaTek Dimensity 8200",5200,"6.8 inches",1049,2024
+Tecno,"Camon 20 Pro 128GB",198,6GB,32MP,50MP,"MediaTek Helio G99",5000,"6.7 inches",349,2024
+Tecno,"Camon 20 Pro 5G 256GB",200,8GB,32MP,50MP,"MediaTek Dimensity 810",5000,"6.7 inches",499,2024
+Tecno,"Camon 20s 256GB",200,8GB,32MP,50MP,"MediaTek Helio G99",5000,"6.7 inches",449,2024
+Tecno,"Camon 20s Pro 256GB",202,12GB,50MP,108MP,"MediaTek Dimensity 810",5200,"6.9 inches",899,2024
+Tecno,"Camon 20s Pro 5G 512GB",202,12GB,50MP,108MP,"MediaTek Dimensity 9200",5200,"6.9 inches",1099,2024
+Tecno,"Camon 30 128GB",195,6GB,32MP,50MP,"MediaTek Helio G99",5000,"6.7 inches",349,2024
+Tecno,"Camon 30 5G 256GB",198,8GB,32MP,50MP,"MediaTek Dimensity 810",5000,"6.7 inches",499,2024
+Tecno,"Camon 30 Premier 512GB",210,12GB,50MP,108MP,"MediaTek Dimensity 9200",5200,"6.9 inches",1199,2024
+Tecno,"Camon 30 Pro 512GB",205,12GB,50MP,64MP,"MediaTek Dimensity 8200",5200,"6.8 inches",899,2024
+Tecno,"Camon 30S 256GB",198,8GB,32MP,50MP,"MediaTek Dimensity 810",5200,"6.8 inches",499,2024
+Tecno,"Camon 30S Pro 512GB",202,12GB,50MP,108MP,"MediaTek Dimensity 9200",5200,"6.9 inches",1099,2024
+Tecno,"Megapad 11 256GB",450,8GB,13MP,50MP,"MediaTek G99",8000,"11 inches",349,2024
+Tecno,"Megapad 128GB",420,6GB,12MP,50MP,"MediaTek Helio G80",7500,"10.9 inches",299,2024
+Tecno,"Phantom V Flip2 256GB",195,8GB,32MP,50MP,"MediaTek Dimensity 8050",4300,"6.9 inches",999,2024
+Tecno,"Phantom V Fold2 512GB",280,12GB,32MP,64MP,"MediaTek Dimensity 9200+",5500,"7.85 inches",1799,2024
+Tecno,"Pop 8 64GB",195,3GB,5MP,8MP,"Unisoc SC9832E",5000,"6.52 inches",89,2024
+Tecno,"Pop 9 4G 64GB",195,3GB,5MP,8MP,"Unisoc SC9863A",5000,"6.52 inches",99,2024
+Tecno,"Pop 9 64GB",190,3GB,5MP,8MP,"Unisoc SC9832E",5000,"6.52 inches",89,2024
+Tecno,"Pova 5 256GB",230,8GB,16MP,50MP,"MediaTek Helio G99",6000,"6.8 inches",329,2024
+Tecno,"Pova 5G 512GB",240,8GB,32MP,50MP,"MediaTek Dimensity 900",6000,"6.9 inches",699,2024
+Tecno,"Pova 6 Neo 256GB",230,8GB,16MP,50MP,"MediaTek Helio G99",6000,"6.8 inches",299,2024
+Tecno,"Pova 6 Neo 5G 256GB",225,8GB,16MP,50MP,"MediaTek Dimensity 810",6000,"6.8 inches",349,2024
+Tecno,"Pova 6 Pro 512GB",230,12GB,32MP,64MP,"MediaTek Dimensity 8100",6000,"6.9 inches",1099,2024
+Tecno,"Spark 20 128GB",192,4GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",179,2024
+Tecno,"Spark 20 Pro 128GB",195,6GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",199,2024
+Tecno,"Spark 20 Pro 5G 256GB",210,8GB,32MP,50MP,"MediaTek Dimensity 810",5200,"6.8 inches",329,2024
+Tecno,"Spark 20 Pro+ 256GB",210,8GB,32MP,50MP,"MediaTek Helio G99",5200,"6.8 inches",269,2024
+Tecno,"Spark 20C 128GB",190,4GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",149,2024
+Tecno,"Spark 20P 128GB",195,4GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",179,2024
+Tecno,"Spark 30 128GB",192,4GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",179,2024
+Tecno,"Spark 30 5G 128GB",195,6GB,16MP,50MP,"MediaTek Dimensity 6020",5000,"6.6 inches",229,2024
+Tecno,"Spark 30 Pro 256GB",205,8GB,32MP,50MP,"MediaTek Helio G99",5200,"6.8 inches",269,2024
+Tecno,"Spark 30C 128GB",190,4GB,16MP,50MP,"MediaTek Helio G85",5000,"6.6 inches",149,2024
+Tecno,"Spark 30C 5G 128GB",200,6GB,16MP,50MP,"MediaTek Dimensity 6100+",5000,"6.6 inches",199,2024
+Tecno,"Spark Go 1 64GB",195,3GB,5MP,8MP,"Unisoc SC9863A",5000,"6.52 inches",99,2024
+Tecno,"Spark Go 1S 64GB",190,4GB,8MP,13MP,"MediaTek Helio A22",5000,"6.6 inches",129,2024
+Tecno,"Spark Go 2024 64GB",195,3GB,5MP,8MP,"Unisoc SC9863A",5000,"6.52 inches",99,2024
+Vivo,"iQOO 12 256GB",210,16GB,16MP,50MP,"Snapdragon 8 Gen 3",5000,"6.78 inches",699,2024
+Vivo,"Pad 128GB",498,6GB,8MP,13MP,"Snapdragon 870",8040,"11 inches",329,2022
+Vivo,"Pad 2 256GB",535,8GB,8MP,50MP,"MediaTek Dimensity 1200",8040,"11 inches",399,2023
+Vivo,"Pad 3 128GB",500,6GB,8MP,13MP,"Snapdragon 750G",8040,"11 inches",349,2023
+Vivo,"Pad 3 Pro 256GB",550,8GB,8MP,50MP,"Snapdragon 888",8040,"12.3 inches",449,2023
+Vivo,"Pad 4 Pro 256GB",560,8GB,8MP,50MP,"MediaTek Dimensity 9000",8040,"12.9 inches",499,2024
+Vivo,"Pad Air 128GB",510,6GB,8MP,13MP,"Snapdragon 870",8040,"10.4 inches",279,2023
+Vivo,"S1 Pro 128GB",185,6GB,32MP,48MP,"MediaTek Helio P65",4500,"6.38 inches",249,2019
+Vivo,"S1 Pro 256GB",185,6GB,32MP,48MP,"MediaTek Helio P65",4500,"6.38 inches",269,2019
+Vivo,"S18 Pro 256GB",189,12GB,32MP,108MP,"Snapdragon 8 Gen 2",4700,"6.56 inches",599,2024
+Vivo,"T1 5G 128GB",181,6GB,16MP,50MP,"Qualcomm Snapdragon 695",5000,"6.58 inches",269,2022
+Vivo,"T1 5G 256GB",181,8GB,16MP,50MP,"Qualcomm Snapdragon 695",5000,"6.58 inches",319,2022
+Vivo,"T2 Series 128GB",190,8GB,16MP,64MP,"Qualcomm Snapdragon 695",4500,"6.44 inches",299,2023
+Vivo,"T2 Series 256GB",190,8GB,16MP,64MP,"Qualcomm Snapdragon 695",4500,"6.44 inches",349,2023
+Vivo,"T3 5G 128GB",180,8GB,16MP,50MP,"Snapdragon 870",5000,"6.67 inches",349,2024
+Vivo,"V15 128GB",190,6GB,32MP,48MP,"MediaTek Helio P70",4000,"6.53 inches",299,2019
+Vivo,"V15 256GB",190,6GB,32MP,48MP,"MediaTek Helio P70",4000,"6.53 inches",319,2019
+Vivo,"V15 Pro 128GB",185,6GB,32MP,48MP,"Qualcomm Snapdragon 675",3700,"6.39 inches",399,2019
+Vivo,"V15 Pro 256GB",185,6GB,32MP,48MP,"Qualcomm Snapdragon 675",3700,"6.39 inches",449,2019
+Vivo,"V17 Pro 128GB",201,8GB,32MP,48MP,"Qualcomm Snapdragon 675",4100,"6.44 inches",399,2019
+Vivo,"V17 Pro 256GB",201,8GB,32MP,48MP,"Qualcomm Snapdragon 675",4100,"6.44 inches",429,2019
+Vivo,"V19 128GB",176,8GB,32MP,48MP,"Qualcomm Snapdragon 712",4500,"6.44 inches",399,2020
+Vivo,"V19 256GB",176,8GB,32MP,48MP,"Qualcomm Snapdragon 712",4500,"6.44 inches",429,2020
+Vivo,"V20 Pro 128GB",173,8GB,44MP,64MP,"Qualcomm Snapdragon 765G",4000,"6.44 inches",499,2020
+Vivo,"V20 Pro 256GB",173,8GB,44MP,64MP,"Qualcomm Snapdragon 765G",4000,"6.44 inches",549,2020
+Vivo,"V23 5G 128GB",179,8GB,50MP,64MP,"MediaTek Dimensity 920",4200,"6.44 inches",499,2022
+Vivo,"V23 5G 256GB",179,8GB,50MP,64MP,"MediaTek Dimensity 920",4200,"6.44 inches",549,2022
+Vivo,"V23e 128GB",172,8GB,50MP,64MP,"MediaTek Helio G96",4050,"6.44 inches",299,2021
+Vivo,"V23e 256GB",172,8GB,50MP,64MP,"MediaTek Helio G96",4050,"6.44 inches",349,2021
+Vivo,"V25 Pro 128GB",190,8GB,32MP,64MP,"MediaTek Dimensity 1300",4830,"6.56 inches",599,2022
+Vivo,"V25 Pro 256GB",190,8GB,32MP,64MP,"MediaTek Dimensity 1300",4830,"6.56 inches",649,2022
+Vivo,"V27 128GB",182,8GB,50MP,50MP,"MediaTek Dimensity 8200",4600,"6.78 inches",599,2023
+Vivo,"V27 256GB",182,8GB,50MP,50MP,"MediaTek Dimensity 8200",4600,"6.78 inches",649,2023
+Vivo,"V27 Pro 128GB",182,8GB,50MP,50MP,"MediaTek Dimensity 8200",4600,"6.78 inches",699,2023
+Vivo,"V27 Pro 256GB",182,8GB,50MP,50MP,"MediaTek Dimensity 8200",4600,"6.78 inches",749,2023
+Vivo,"V3 Max 32GB",168,4GB,8MP,13MP,"Snapdragon 652",3000,"5.5 inches",179,2016
+Vivo,"V30 Pro 128GB",192,12GB,32MP,64MP,"Dimensity 1100",4500,"6.44 inches",549,2024
+Vivo,"V40e 128GB",179,8GB,44MP,64MP,"Snapdragon 778G",4100,"6.44 inches",449,2024
+Vivo,"V5 Plus 64GB",158,4GB,20MP+8MP,16MP,"Snapdragon 625",3055,"5.5 inches",249,2017
+Vivo,"V9 64GB",150,4GB,24MP,16MP,"Snapdragon 626",3260,"6.3 inches",219,2018
+Vivo,"X200 128GB",223,12GB,32MP,50MP,"Dimensity 9400",6000,"6.78 inches",999,2024
+Vivo,"X200 256GB",223,12GB,32MP,50MP,"Dimensity 9400",6000,"6.78 inches",1099,2024
+Vivo,"X200 Pro 256GB",223,16GB,32MP,200MP,"Dimensity 9400",6000,"6.78 inches",1199,2024
+Vivo,"X200 Pro 512GB",223,16GB,32MP,200MP,"Dimensity 9400",6000,"6.78 inches",1299,2024
+Vivo,"X200 Pro Mini 256GB",187,16GB,32MP,50MP,"Dimensity 9400",5700,"6.31 inches",949,2024
+Vivo,"X21 128GB",156,6GB,12MP,12MP,"Qualcomm Snapdragon 660",3200,"6.28 inches",349,2018
+Vivo,"X21 64GB",156,4GB,12MP,12MP,"Qualcomm Snapdragon 660",3200,"6.28 inches",299,2018
+Vivo,"X27 Pro 128GB",190,8GB,32MP,48MP,"Qualcomm Snapdragon 710",4000,"6.39 inches",499,2019
+Vivo,"X27 Pro 256GB",190,8GB,32MP,48MP,"Qualcomm Snapdragon 710",4000,"6.39 inches",549,2019
+Vivo,"X30 Pro 128GB",199,8GB,32MP,64MP,"Qualcomm Snapdragon 855",4200,"6.44 inches",899,2019
+Vivo,"X30 Pro 256GB",199,8GB,32MP,64MP,"Qualcomm Snapdragon 855",4200,"6.44 inches",949,2019
+Vivo,"X3S 16GB",153,1GB,5MP,13MP,"MediaTek MT6592",2000,"5.0 inches",139,2014
+Vivo,"X5Max 16GB",146,2GB,5MP,13MP,"Snapdragon 615",2300,"5.5 inches",199,2014
+Vivo,"X60 Pro 256GB",190,12GB,32MP,48MP,"Qualcomm Snapdragon 870",4200,"6.56 inches",899,2021
+Vivo,"X60 Pro 512GB",190,12GB,32MP,48MP,"Qualcomm Snapdragon 870",4200,"6.56 inches",999,2021
+Vivo,"X70 Pro 128GB",185,8GB,32MP,50MP,"MediaTek Dimensity 1200",4450,"6.56 inches",749,2021
+Vivo,"X70 Pro 256GB",185,8GB,32MP,50MP,"MediaTek Dimensity 1200",4450,"6.56 inches",799,2021
+Vivo,"X80 256GB",206,12GB,32MP,50MP,"MediaTek Dimensity 9000",4700,"6.78 inches",899,2022
+Vivo,"X80 512GB",206,12GB,32MP,50MP,"MediaTek Dimensity 9000",4700,"6.78 inches",999,2022
+Vivo,"X9 Plus 128GB",199,6GB,20MP+8MP,16MP,"Snapdragon 653",4000,"5.88 inches",299,2017
+Vivo,"X90 Pro 256GB",221,12GB,32MP,50MP,"MediaTek Dimensity 9200",4870,"6.78 inches",1099,2022
+Vivo,"X90 Pro 512GB",221,12GB,32MP,50MP,"MediaTek Dimensity 9200",4870,"6.78 inches",1199,2022
+Vivo,"Y100 128GB",190,8GB,16MP,64MP,"MediaTek Dimensity 900",4500,"6.44 inches",399,2023
+Vivo,"Y100 256GB",190,8GB,16MP,64MP,"MediaTek Dimensity 900",4500,"6.44 inches",449,2023
+Vivo,"Y100 5G 128GB",181,8GB,16MP,64MP,"Dimensity 900",4500,"6.38 inches",299,2024
+Vivo,"Y11 32GB",190,3GB,8MP,13MP,"Qualcomm Snapdragon 439",5000,"6.35 inches",149,2019
+Vivo,"Y11 64GB",190,3GB,8MP,13MP,"Qualcomm Snapdragon 439",5000,"6.35 inches",169,2019
+Vivo,"Y12s 128GB",191,4GB,8MP,13MP,"MediaTek Helio P35",5000,"6.51 inches",179,2020
+Vivo,"Y12s 64GB",191,3GB,8MP,13MP,"MediaTek Helio P35",5000,"6.51 inches",159,2020
+Vivo,"Y200 GT 128GB",190,12GB,16MP,64MP,"Dimensity 1200",5000,"6.58 inches",399,2024
+Vivo,"Y21 128GB",182,4GB,8MP,13MP,"MediaTek Helio P35",5000,"6.51 inches",199,2021
+Vivo,"Y21 64GB",182,4GB,8MP,13MP,"MediaTek Helio P35",5000,"6.51 inches",179,2021
+Vivo,"Y30 128GB",193,4GB,8MP,13MP,"MediaTek Helio P35",5000,"6.47 inches",199,2020
+Vivo,"Y30 64GB",193,3GB,8MP,13MP,"MediaTek Helio P35",5000,"6.47 inches",169,2020
+Vivo,"Y33s 128GB",182,8GB,16MP,50MP,"MediaTek Helio G80",5000,"6.58 inches",239,2021
+Vivo,"Y33s 64GB",182,4GB,16MP,50MP,"MediaTek Helio G80",5000,"6.58 inches",179,2021
+Vivo,"Y53s 128GB",190,6GB,16MP,64MP,"MediaTek Helio G80",5000,"6.58 inches",229,2021
+Vivo,"Y53s 64GB",190,6GB,16MP,64MP,"MediaTek Helio G80",5000,"6.58 inches",179,2021
+Vivo,"Y66 32GB",155,3GB,16MP,13MP,"Snapdragon 430",3000,"5.5 inches",179,2017
+Vivo,"Y75 5G 128GB",179,8GB,16MP,50MP,"MediaTek Dimensity 700",5000,"6.58 inches",349,2021
+Vivo,"Y75 5G 256GB",179,8GB,16MP,50MP,"MediaTek Dimensity 700",5000,"6.58 inches",399,2021
+Vivo,"Y81 32GB",146,3GB,5MP,13MP,"MediaTek Helio P22",3260,"6.22 inches",149,2018
+Vivo,"Y95 64GB",163,4GB,20MP,13MP+2MP,"Snapdragon 439",4030,"6.22 inches",199,2018
+Vivo,"Z1 Pro 128GB",159,6GB,16MP,16MP,"Qualcomm Snapdragon 712",4500,"6.53 inches",299,2019
+Vivo,"Z1 Pro 64GB",159,4GB,16MP,16MP,"Qualcomm Snapdragon 712",4500,"6.53 inches",249,2019
+Vivo,"Z3 64GB",162,6GB,12MP,16MP,"Snapdragon 710",3315,"6.3 inches",249,2018
+Xiaomi,"Redmi 14C 5G 128GB",195,6GB,8MP,"50MP + 2MP","MediaTek Dimensity 700",5000,"6.5 inches",229,2024
+Xiaomi,"Redmi 14C 5G 64GB",195,4GB,8MP,"50MP + 2MP","MediaTek Dimensity 700",5000,"6.5 inches",199,2024
+Xiaomi,"Redmi Note 14 4G 128GB",180,4GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 680",5000,"6.67 inches",249,2024
+Xiaomi,"Redmi Note 14 4G 256GB",180,6GB,16MP,"50MP + 8MP + 2MP","Qualcomm Snapdragon 680",5000,"6.67 inches",279,2024
+Xiaomi,"Redmi Note 14 5G 128GB",185,6GB,16MP,"50MP + 8MP + 2MP","MediaTek Dimensity 7025-Ultra",5000,"6.67 inches",279,2024
+Xiaomi,"Redmi Note 14 5G 256GB",185,8GB,16MP,"50MP + 8MP + 2MP","MediaTek Dimensity 7025-Ultra",5000,"6.67 inches",309,2024
+Xiaomi,"Redmi Note 14 Pro 4G 128GB",190,6GB,16MP,"108MP + 8MP + 2MP","Qualcomm Snapdragon 732G",5000,"6.67 inches",299,2024
+Xiaomi,"Redmi Note 14 Pro 4G 256GB",190,8GB,16MP,"108MP + 8MP + 2MP","Qualcomm Snapdragon 732G",5000,"6.67 inches",329,2024
+Xiaomi,"Redmi Note 14 Pro 5G 128GB",195,8GB,16MP,"108MP + 8MP + 2MP","MediaTek Dimensity 7300-Ultra",5500,"6.67 inches",349,2024
+Xiaomi,"Redmi Note 14 Pro 5G 256GB",195,12GB,16MP,"108MP + 8MP + 2MP","MediaTek Dimensity 7300-Ultra",5500,"6.67 inches",379,2024
+Xiaomi,"Redmi Note 14 Pro+ 5G 128GB",205,8GB,16MP,"200MP + 8MP + 2MP","Snapdragon 7s Gen 3",5110,"6.67 inches",375,2024
+Xiaomi,"Redmi Note 14 Pro+ 5G 256GB",205,12GB,16MP,"200MP + 8MP + 2MP","Snapdragon 7s Gen 3",5110,"6.67 inches",399,2024
+Xiaomi,"Redmi Note 14 Pro+ 5G 512GB",205,16GB,16MP,"200MP + 8MP + 2MP","Snapdragon 7s Gen 3",5110,"6.67 inches",429,2024
+Xiaomi,"Xiaomi 14 256GB",189,12GB,32MP,"50MP + 50MP","Snapdragon 8 Gen 3",4610,"6.36 inches",699,2023
+Xiaomi,"Xiaomi 14 512GB",189,12GB,32MP,"50MP + 50MP","Snapdragon 8 Gen 3",4610,"6.36 inches",799,2023
+Xiaomi,"Xiaomi 14 Pro 256GB",206,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 3",5000,"6.73 inches",799,2023
+Xiaomi,"Xiaomi 14 Pro 512GB",206,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Gen 3",5000,"6.73 inches",899,2023
+Xiaomi,"Xiaomi 14T 256GB",195,12GB,32MP,"50MP + 50MP","Dimensity 8300-Ultra",5000,"6.67 inches",599,2024
+Xiaomi,"Xiaomi 14T 512GB",195,12GB,32MP,"50MP + 50MP","Dimensity 8300-Ultra",5000,"6.67 inches",699,2024
+Xiaomi,"Xiaomi 14T Pro 1TB",209,12GB,32MP,"50MP + 50MP + 50MP","Dimensity 9300+",5000,"6.67 inches",899,2024
+Xiaomi,"Xiaomi 14T Pro 256GB",209,12GB,32MP,"50MP + 50MP + 50MP","Dimensity 9300+",5000,"6.67 inches",635,2024
+Xiaomi,"Xiaomi 14T Pro 512GB",209,12GB,32MP,"50MP + 50MP + 50MP","Dimensity 9300+",5000,"6.67 inches",791,2024
+Xiaomi,"Xiaomi 15 256GB",190,12GB,32MP,"50MP + 50MP","Snapdragon 8 Elite",5400,"6.36 inches",699,2024
+Xiaomi,"Xiaomi 15 512GB",190,16GB,32MP,"50MP + 50MP","Snapdragon 8 Elite",5400,"6.36 inches",799,2024
+Xiaomi,"Xiaomi 15 Pro 1TB",210,16GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Elite",6100,"6.73 inches",999,2024
+Xiaomi,"Xiaomi 15 Pro 256GB",210,12GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Elite",6100,"6.73 inches",799,2024
+Xiaomi,"Xiaomi 15 Pro 512GB",210,16GB,32MP,"50MP + 50MP + 50MP","Snapdragon 8 Elite",6100,"6.73 inches",899,2024
